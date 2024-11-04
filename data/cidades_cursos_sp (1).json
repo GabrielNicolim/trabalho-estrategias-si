@@ -1,0 +1,3702 @@
+{
+    "cidades": [
+        {
+            "nome": "Adamantina",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Adolfo",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Aguaí",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Águas da Prata",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Águas de Lindóia",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Águas de Santa Bárbara",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Águas de São Pedro",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Agudos",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Alambari",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Alfredo Marcondes",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Altair",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Altinópolis",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Alto Alegre",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Alumínio",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Álvares Florence",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Álvares Machado",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Álvaro de Carvalho",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Alvinlândia",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Americana",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Américo Brasiliense",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Américo de Campos",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Amparo",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Analândia",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Andradina",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Angatuba",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Anhembi",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Anhumas",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Aparecida",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Aparecida d'Oeste",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Apiaí",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Araçariguama",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Araçatuba",
+            "mesorregiao": "Araçatuba",
+            "cursos": [
+                "Odontologia",
+                "Medicina Veterinária"
+            ]
+        },
+        {
+            "nome": "Araçoiaba da Serra",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Aramina",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Arandu",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Arapeí",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Araraquara",
+            "mesorregiao": "Araraquara",
+            "cursos": [
+                "Farmácia",
+                "Engenharia de Bioprocessos e Biotecnologia",
+                "Letras",
+                "Pedagogia",
+                "Ciências Sociais",
+                "Ciências Econômicas e Administração Pública",
+                "Odontologia",
+                "Química"
+            ]
+        },
+        {
+            "nome": "Araras",
+            "mesorregiao": "Piracicaba",
+            "cursos": [
+                "Agroecologia",
+                "Biotecnologia",
+                "Ciências Biológicas",
+                "Engenharia Agronômica",
+                "Física",
+                "Química"
+            ]
+        },
+        {
+            "nome": "Arco-Íris",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Arealva",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Areias",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Areiópolis",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Ariranha",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Artur Nogueira",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Arujá",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Aspásia",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Assis",
+            "mesorregiao": "Assis",
+            "cursos": [
+                "História",
+                "Letras",
+                "Psicologia",
+                "Ciências Biológicas",
+                "Engenharia Biotecnológica"
+            ]
+        },
+        {
+            "nome": "Atibaia",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Auriflama",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Avaí",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Avanhandava",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Avaré",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Bady Bassitt",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Balbinos",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Bálsamo",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Bananal",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Barão de Antonina",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Barbosa",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Bariri",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Barra Bonita",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Barra do Chapéu",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Barra do Turvo",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Barretos",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Barrinha",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Barueri",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Bastos",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Batatais",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Bauru",
+            "mesorregiao": "Bauru",
+            "cursos": [
+                "Arquitetura e Urbanismo",
+                "Design",
+                "Artes Visuais",
+                "Jornalismo",
+                "Comunicação: Rádio, TV e Internet",
+                "Relações Públicas",
+                "Psicologia",
+                "Matemática",
+                "Física",
+                "Química",
+                "Ciências Biológicas",
+                "Ciência da Computação",
+                "Sistemas de Informação",
+                "Educação Física",
+                "Pedagogia",
+                "Engenharia Civil",
+                "Engenharia Elétrica",
+                "Engenharia Mecânica",
+                "Engenharia de Produção",
+                "Medicina",
+                "Odontologia",
+                "Fonoaudiologia"
+            ]
+        },
+        {
+            "nome": "Bebedouro",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Bento de Abreu",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Bernardino de Campos",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Bertioga",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Bilac",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Birigui",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Biritiba Mirim",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Boa Esperança do Sul",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Bocaina",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Bofete",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Boituva",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Bom Jesus dos Perdões",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Bom Sucesso de Itararé",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Borá",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Boracéia",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Borborema",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Borebi",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Botucatu",
+            "mesorregiao": "Bauru",
+            "cursos": [
+                "Medicina",
+                "Enfermagem",
+                "Medicina Veterinária",
+                "Zootecnia",
+                "Agronomia",
+                "Engenharia Florestal",
+                "Engenharia de Bioprocessos e Biotecnologia",
+                "Ciências Biológicas",
+                "Ciências Biomédicas",
+                "Física Médica",
+                "Nutrição"
+            ]
+        },
+        {
+            "nome": "Bragança Paulista",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Braúna",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Brejo Alegre",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Brodowski",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Brotas",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Buri",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Buritama",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Buritizal",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Cabrália Paulista",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Cabreúva",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Caçapava",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Cachoeira Paulista",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Caconde",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Cafelândia",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Caiabu",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Caieiras",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Caiuá",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Cajamar",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Cajati",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Cajobi",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Cajuru",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Campina do Monte Alegre",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Campinas",
+            "mesorregiao": "Campinas",
+            "cursos": [
+                "Ciência da Computação",
+                "Engenharia Física",
+                "Física",
+                "Física Médica e Biomédica",
+                "Matemática",
+                "Matemática Aplicada e Computacional",
+                "Engenharia Agrícola",
+                "Engenharia Civil",
+                "Engenharia de Alimentos",
+                "Engenharia da Computação",
+                "Engenharia de Controle e Automação",
+                "Engenharia Elétrica",
+                "Engenharia Mecânica",
+                "Engenharia Química",
+                "Estatística",
+                "Geologia",
+                "Química",
+                "Química Tecnológica",
+                "Arquitetura e Urbanismo",
+                "Artes Cênicas",
+                "Artes Visuais",
+                "Ciências Econômicas",
+                "Ciências Sociais",
+                "Midialogia",
+                "Dança",
+                "Estudos Literários",
+                "Filosofia",
+                "Geografia",
+                "História",
+                "Letras",
+                "Linguística",
+                "Música",
+                "Pedagogia",
+                "Ciências Biológicas",
+                "Educação Física",
+                "Enfermagem",
+                "Farmácia",
+                "Fonoaudiologia",
+                "Medicina"
+            ]
+        },
+        {
+            "nome": "Campo Limpo Paulista",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Campos do Jordão",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Campos Novos Paulista",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Cananéia",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Canas",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Cândido Mota",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Cândido Rodrigues",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Canitar",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Capão Bonito",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Capela do Alto",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Capivari",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Caraguatatuba",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Carapicuíba",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Cardoso",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Casa Branca",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Cássia dos Coqueiros",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Castilho",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Catanduva",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Catiguá",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Cedral",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Cerqueira César",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Cerquilho",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Cesário Lange",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Charqueada",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Clementina",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Colina",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Colômbia",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Conchal",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Conchas",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Cordeirópolis",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Coroados",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Coronel Macedo",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Corumbataí",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Cosmópolis",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Cosmorama",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Cotia",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Cravinhos",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Cristais Paulista",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Cruzália",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Cruzeiro",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Cubatão",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Cunha",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Descalvado",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Diadema",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": [
+                "Ciências",
+                "Ciências Ambientais",
+                "Ciências Biológicas",
+                "Engenharia Química",
+                "Farmácia",
+                "Química",
+                "Química Industrial"
+            ]
+        },
+        {
+            "nome": "Dirce Reis",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Divinolândia",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Dobrada",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Dois Córregos",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Dolcinópolis",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Dourado",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Dracena",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": [
+                "Zootecnia",
+                "Engenharia Agronômica"
+            ]
+        },
+        {
+            "nome": "Duartina",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Dumont",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Echaporã",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Eldorado",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Elias Fausto",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Elisiário",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Embaúba",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Embu das Artes",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Embu-Guaçu",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Emilianópolis",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Engenheiro Coelho",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Espírito Santo do Pinhal",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Espírito Santo do Turvo",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Estrela d'Oeste",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Estrela do Norte",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Euclides da Cunha Paulista",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Fartura",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Fernandópolis",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Fernando Prestes",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Fernão",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Ferraz de Vasconcelos",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Flora Rica",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Floreal",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Flórida Paulista",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Florínea",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Franca",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": [
+                "Direito",
+                "História",
+                "Relações Internacionais",
+                "Serviço Social"
+            ]
+        },
+        {
+            "nome": "Francisco Morato",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Franco da Rocha",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Gabriel Monteiro",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Gália",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Garça",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Gastão Vidigal",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Gavião Peixoto",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "General Salgado",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Getulina",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Glicério",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Guaiçara",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Guaimbê",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Guaíra",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Guapiaçu",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Guapiara",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Guará",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Guaraçaí",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Guaraci",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Guarani d'Oeste",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Guarantã",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Guararapes",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Guararema",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Guaratinguetá",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": [
+                "Engenharia Mecânica",
+                "Engenharia Civil",
+                "Engenharia Elétrica",
+                "Engenharia de Produção",
+                "Engenharia de Materiais",
+                "Física, Matemática"
+            ]
+        },
+        {
+            "nome": "Guareí",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Guariba",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Guarujá",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Guarulhos",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": [
+                "Ciências Sociais",
+                "Filosofia",
+                "História",
+                "Letras",
+                "História Da Arte",
+                "Pedagogia"
+            ]
+        },
+        {
+            "nome": "Guatapará",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Guzolândia",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Herculândia",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Holambra",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Hortolândia",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Iacanga",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Iacri",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Iaras",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Ibaté",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Ibirá",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Ibirarema",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Ibitinga",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Ibiúna",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Icém",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Iepê",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Igaraçu do Tietê",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Igarapava",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Igaratá",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Iguape",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Ilhabela",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Ilha Comprida",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Ilha Solteira",
+            "mesorregiao": "Araçatuba",
+            "cursos": [
+                "Engenharia Agronômica",
+                "Engenharia Civil",
+                "Engenharia Elétrica",
+                "Engenharia Mecânica",
+                "Ciências Biológicas",
+                "Física",
+                "Matemática",
+                "Zootecnia"
+            ]
+        },
+        {
+            "nome": "Indaiatuba",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Indiana",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Indiaporã",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Inúbia Paulista",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Ipaussu",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Iperó",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Ipeúna",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Ipiguá",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Iporanga",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Ipuã",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Iracemápolis",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Irapuã",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Irapuru",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Itaberá",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Itaí",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Itajobi",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Itaju",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Itanhaém",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Itaoca",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Itapecerica da Serra",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Itapetininga",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Itapeva",
+            "mesorregiao": "Itapetininga",
+            "cursos": [
+                "Engenharia Industrial Madeireira",
+                "Engenharia de Produção"
+            ]
+        },
+        {
+            "nome": "Itapevi",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Itapira",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Itapirapuã Paulista",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Itápolis",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Itaporanga",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Itapuí",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Itapura",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Itaquaquecetuba",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Itararé",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Itariri",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Itatiba",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Itatinga",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Itirapina",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Itirapuã",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Itobi",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Itu",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Itupeva",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Ituverava",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Jaborandi",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Jaboticabal",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": [
+                "Administração",
+                "Biologia",
+                "Engenharia Agronômica",
+                "Medicina Veterinária",
+                "Zootecnia"
+            ]
+        },
+        {
+            "nome": "Jacareí",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Jaci",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Jacupiranga",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Jaguariúna",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Jales",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Jambeiro",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Jandira",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Jardinópolis",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Jarinu",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Jaú",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Jeriquara",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Joanópolis",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "João Ramalho",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "José Bonifácio",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Júlio Mesquita",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Jumirim",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Jundiaí",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Junqueirópolis",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Juquiá",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Juquitiba",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Lagoinha",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Laranjal Paulista",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Lavínia",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Lavrinhas",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Leme",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Lençóis Paulista",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Limeira",
+            "mesorregiao": "Piracicaba",
+            "cursos": [
+                "Engenharia Ambiental",
+                "Engenharia de Manufatura",
+                "Engenharia de Produção",
+                "Engenharia de Telecomunicações",
+                "Engenharia de Transportes",
+                "Sistemas de Informação",
+                "Análise e Desenvolvimento de Sistemas",
+                "Saneamento Ambiental",
+                "Administração",
+                "Administração Pública",
+                "Ciências do Esporte",
+                "Nutrição"
+            ]
+        },
+        {
+            "nome": "Lindóia",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Lins",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Lorena",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": [
+                "Engenharia Ambiental",
+                "Engenharia Bioquímica",
+                "Engenharia de Materiais",
+                "Engenharia de Produção",
+                "Engenharia FísicaEngenharia Química"
+            ]
+        },
+        {
+            "nome": "Lourdes",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Louveira",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Lucélia",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Lucianópolis",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Luís Antônio",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Luiziânia",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Lupércio",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Lutécia",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Macatuba",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Macaubal",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Macedônia",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Magda",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Mairinque",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Mairiporã",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Manduri",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Marabá Paulista",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Maracaí",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Marapoama",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Mariápolis",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Marília",
+            "mesorregiao": "Marília",
+            "cursos": [
+                "Arquivologia",
+                "Biblioteconomia",
+                "Ciências Sociais",
+                "Filosofia",
+                "Pedagogia",
+                "Relações Internacionais",
+                "Fisioterapia",
+                "Fonoaudiologia",
+                "Terapia Ocupacional"
+            ]
+        },
+        {
+            "nome": "Marinópolis",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Martinópolis",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Matão",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Mauá",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Mendonça",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Meridiano",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Mesópolis",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Miguelópolis",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Mineiros do Tietê",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Miracatu",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Mira Estrela",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Mirandópolis",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Mirante do Paranapanema",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Mirassol",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Mirassolândia",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Mococa",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Mogi das Cruzes",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Mogi Guaçu",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Mogi Mirim",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Mombuca",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Monções",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Mongaguá",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Monte Alegre do Sul",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Monte Alto",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Monte Aprazível",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Monte Azul Paulista",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Monte Castelo",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Monteiro Lobato",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Monte Mor",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Morro Agudo",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Morungaba",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Motuca",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Murutinga do Sul",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Nantes",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Narandiba",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Natividade da Serra",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Nazaré Paulista",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Neves Paulista",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Nhandeara",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Nipoã",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Nova Aliança",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Nova Campina",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Nova Canaã Paulista",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Nova Castilho",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Nova Europa",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Nova Granada",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Nova Guataporanga",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Nova Independência",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Novais",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Nova Luzitânia",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Nova Odessa",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Novo Horizonte",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Nuporanga",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Ocauçu",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Óleo",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Olímpia",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Onda Verde",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Oriente",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Orindiúva",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Orlândia",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Osasco",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": [
+                "Administração",
+                "Ciências Atuariais",
+                "Ciências Contábeis",
+                "Ciências Econômicas",
+                "Direito",
+                "Relações Internacionais"
+            ]
+        },
+        {
+            "nome": "Oscar Bressane",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Osvaldo Cruz",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Ourinhos",
+            "mesorregiao": "Assis",
+            "cursos": [
+                "Geografia"
+            ]
+        },
+        {
+            "nome": "Ouroeste",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Ouro Verde",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Pacaembu",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Palestina",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Palmares Paulista",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Palmeira d'Oeste",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Palmital",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Panorama",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Paraguaçu Paulista",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Paraibuna",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Paraíso",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Paranapanema",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Paranapuã",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Parapuã",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Pardinho",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Pariquera-Açu",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Parisi",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Patrocínio Paulista",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Paulicéia",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Paulínia",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Paulistânia",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Paulo de Faria",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Pederneiras",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Pedra Bela",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Pedranópolis",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Pedregulho",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Pedreira",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Pedrinhas Paulista",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Pedro de Toledo",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Penápolis",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Pereira Barreto",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Pereiras",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Peruíbe",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Piacatu",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Piedade",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Pilar do Sul",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Pindamonhangaba",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Pindorama",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Pinhalzinho",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Piquerobi",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Piquete",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Piracaia",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Piracicaba",
+            "mesorregiao": "Piracicaba",
+            "cursos": [
+                "Odontologia",
+                "Ciências Biológicas",
+                "Ciências dos Alimentos",
+                "Engenharia Agronômica",
+                "Engenharia Florestal",
+                "Gestão Ambiental",
+                "Administração",
+                "Ciências Econômicas"
+            ]
+        },
+        {
+            "nome": "Piraju",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Pirajuí",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Pirangi",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Pirapora do Bom Jesus",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Pirapozinho",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Pirassununga",
+            "mesorregiao": "Campinas",
+            "cursos": [
+                "Engenharia de Alimentos",
+                "Engenharia de Biossistemas",
+                "Zootecnia",
+                "Medicina Veterinária"
+            ]
+        },
+        {
+            "nome": "Piratininga",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Pitangueiras",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Planalto",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Platina",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Poá",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Poloni",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Pompéia",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Pongaí",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Pontal",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Pontalinda",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Pontes Gestal",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Populina",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Porangaba",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Porto Feliz",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Porto Ferreira",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Potim",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Potirendaba",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Pracinha",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Pradópolis",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Praia Grande",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Pratânia",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Presidente Alves",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Presidente Bernardes",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Presidente Epitácio",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Presidente Prudente",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": [
+                "Geografia",
+                "Matemática",
+                "Engenharia Cartográfica",
+                "Estatística",
+                "Educação Física",
+                "Fisioterapia",
+                "Pedagogia",
+                "Ciência da Computação",
+                "Engenharia Ambiental",
+                "Física",
+                "Química",
+                "Arquitetura e Urbanismo"
+            ]
+        },
+        {
+            "nome": "Presidente Venceslau",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Promissão",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Quadra",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Quatá",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Queiroz",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Queluz",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Quintana",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Rafard",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Rancharia",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Redenção da Serra",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Regente Feijó",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Reginópolis",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Registro",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": [
+                "Engenharia Agronômica",
+                "Engenharia da Pesca"
+            ]
+        },
+        {
+            "nome": "Restinga",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Ribeira",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Ribeirão Bonito",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Ribeirão Branco",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Ribeirão Corrente",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Ribeirão do Sul",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Ribeirão dos Índios",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Ribeirão Grande",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Ribeirão Pires",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Ribeirão Preto",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": [
+                "Ciências Biológicas",
+                "Ciências Biomédicas",
+                "Educação Física e Esporte",
+                "Enfermagem",
+                "Farmácia",
+                "Física Médica",
+                "Fisioterapia",
+                "Fonoaudiologia",
+                "Informática Biomédica",
+                "Medicina",
+                "Nutrição e Metabolismo",
+                "Odontologia",
+                "Psicologia",
+                "Terapia Ocupacional",
+                "Ciências da Computação",
+                "Matemática Aplicada a Negócios",
+                "Química",
+                "Administração",
+                "Biblioteconomia e Ciência da Informação",
+                "Economia Empresarial e Controladoria",
+                "Ciências Contábeis",
+                "Ciências Econômicas",
+                "Direito",
+                "Música",
+                "Pedagogia"
+            ]
+        },
+        {
+            "nome": "Riversul",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Rifaina",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Rincão",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Rinópolis",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Rio Claro",
+            "mesorregiao": "Piracicaba",
+            "cursos": [
+                "Ciências Biológicas",
+                "Ecologia",
+                "Educação Física",
+                "Pedagogia",
+                "Ciências da Computação",
+                "Engenharia Ambiental",
+                "Física",
+                "Geografia",
+                "Geologia",
+                "Matemática"
+            ]
+        },
+        {
+            "nome": "Rio das Pedras",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Rio Grande da Serra",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Riolândia",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Rosana",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": [
+                "Turismo",
+                "Engenharia de Energia"
+            ]
+        },
+        {
+            "nome": "Roseira",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Rubiácea",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Rubinéia",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Sabino",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Sagres",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Sales",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Sales Oliveira",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Salesópolis",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Salmourão",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Saltinho",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Salto",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Salto de Pirapora",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Salto Grande",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Sandovalina",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Adélia",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Albertina",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Bárbara d'Oeste",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Branca",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Clara d'Oeste",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Cruz da Conceição",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Cruz da Esperança",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Cruz das Palmeiras",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Cruz do Rio Pardo",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Ernestina",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Fé do Sul",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Gertrudes",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Isabel",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Lúcia",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Maria da Serra",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Mercedes",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Santana da Ponte Pensa",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Santana de Parnaíba",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Rita d'Oeste",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Rita do Passa Quatro",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Rosa de Viterbo",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Santa Salete",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Santo Anastácio",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Santo André",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": [
+                "Biotecnologia",
+                "Física",
+                "Química",
+                "Matemática",
+                "Ciências Biológicas",
+                "Ciência da Computação",
+                "Biotecnologia",
+                "Engenharia Ambiental e Urbana",
+                "Engenharia de Energia",
+                "Engenharia de Informação",
+                "Engenharia de Instrumentação, Automação e Robótica",
+                "Engenharia de Materiais"
+            ]
+        },
+        {
+            "nome": "Santo Antônio da Alegria",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Santo Antônio de Posse",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Santo Antônio do Aracanguá",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Santo Antônio do Jardim",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Santo Antônio do Pinhal",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Santo Expedito",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Santópolis do Aguapeí",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Santos",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": [
+                "Educação Física",
+                "Engenharia Ambiental",
+                "Engenharia De Petróleo",
+                "Fisioterapia",
+                "Interdisciplinar Em Ciência E Tecnologia Do Mar",
+                "Intercultural Indígena",
+                "Nutrição",
+                "Oceanografia",
+                "Psicologia",
+                "Serviço Social",
+                "Terapia Ocupacional"
+            ]
+        },
+        {
+            "nome": "São Bento do Sapucaí",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "São Bernardo do Campo",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": [
+                "Neurociência",
+                "Engenharia Aeroespacial",
+                "Engenharia Biomédica",
+                "Engenharia de Gestão",
+                "Ciências Econômicas",
+                "Filosofia",
+                "Planejamento Territorial",
+                "Políticas Públicas",
+                "Relações Internacionais",
+                "História"
+            ]
+        },
+        {
+            "nome": "São Caetano do Sul",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "São Carlos",
+            "mesorregiao": "Araraquara",
+            "cursos": [
+                "Biblioteconomia e Ciência da Informação",
+                "Biotecnologia",
+                "Ciências Biológicas",
+                "Ciência da Computação",
+                "Ciências Sociais",
+                "Educação Especial",
+                "Educação Física",
+                "Enfermagem",
+                "Engenharia Civil",
+                "Engenharia de Computação",
+                "Engenharia de Materiais",
+                "Engenharia de Produção",
+                "Engenharia Elétrica",
+                "Engenharia Física",
+                "Engenharia Mecânica",
+                "Engenharia Química",
+                "Estatística",
+                "Filosofia",
+                "Física",
+                "Fisioterapia",
+                "Gerontologia",
+                "Gestão e Análise Ambiental",
+                "Imagem e Som",
+                "Letras",
+                "Linguística",
+                "Matemática",
+                "Medicina",
+                "Música",
+                "Pedagogia",
+                "Psicologia",
+                "Química",
+                "Terapia Ocupacional",
+                "Tradução e Interpretação em Língua Brasileira de Sinais",
+                "Ciência de Dados",
+                "Ciências Físicas e Biomoleculares",
+                "Engenharia Ambiental",
+                "Engenharia Aeronáutica",
+                "Engenharia de Materiais e Manufatura",
+                "Engenharia Mecatrônica",
+                "Estatística e Ciência de Dados",
+                "Física Computacional",
+                "Ciências Exatas",
+                "Matemática Aplicada e Computação Científica",
+                "Sistemas de Informação",
+                "Arquitetura e Urbanismo"
+            ]
+        },
+        {
+            "nome": "São Francisco",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "São João da Boa Vista",
+            "mesorregiao": "Campinas",
+            "cursos": [
+                "Engenharia de Telecomunicações",
+                "Engenharia Aeronáutica"
+            ]
+        },
+        {
+            "nome": "São João das Duas Pontes",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "São João de Iracema",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "São João do Pau d'Alho",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "São Joaquim da Barra",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "São José da Bela Vista",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "São José do Barreiro",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "São José do Rio Pardo",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "São José do Rio Preto",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": [
+                "Ciências Biológicas",
+                "Ciência da Computação",
+                "Engenharia de Alimentos",
+                "Física Biológica",
+                "Matemática",
+                "Química Ambiental",
+                "Letras-Tradutor",
+                "Letras",
+                "Pedagogia",
+                "Medicina"
+            ]
+        },
+        {
+            "nome": "São José dos Campos",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": [
+                "Odontologia",
+                "Engenharia Ambiental",
+                "Biotecnologia",
+                "Ciência Da Computação",
+                "Engenharia Biomédica",
+                "Engenharia De Computação",
+                "Engenharia De Materiais",
+                "Interdisciplinar Em Ciência E Tecnologia",
+                "Matemática Computacional"
+            ]
+        },
+        {
+            "nome": "São Lourenço da Serra",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "São Luiz do Paraitinga",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "São Manuel",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "São Miguel Arcanjo",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "São Paulo",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": [
+                "Design Educacional",
+                "Artes Cênicas",
+                "Artes Visuais",
+                "Teatro",
+                "Música",
+                "Composição",
+                "Regência",
+                "Educação Musical",
+                "Canto",
+                "Instrumento",
+                "Biotecnologia",
+                "Ciências da Natureza",
+                "Educação Física e Saúde",
+                "Gerontologia",
+                "Gestão Ambiental",
+                "Gestão de Políticas Públicas",
+                "Lazer e Turismo",
+                "Marketing",
+                "Obstetrícia",
+                "Sistemas de Informação",
+                "Têxtil e Moda",
+                "Audiovisual",
+                "Biblioteconomia",
+                "Editoração",
+                "Educomunicação",
+                "Jornalismo",
+                "Publicidade e Propaganda",
+                "Relações Públicas",
+                "Turismo",
+                "Enfermagem",
+                "Engenharia Civil",
+                "Engenharia Ambiental",
+                "Engenharia da Computação",
+                "Engenharia de Minas",
+                "Engenharia de Petróleo",
+                "Engenharia Naval",
+                "Engenharia Metalúrgica",
+                "Engenharia de Produção",
+                "Engenharia Elétrica",
+                "Engenharia Mecânica",
+                "Engenharia Mecatrônica",
+                "Engenharia de Materiais",
+                "Engenharia Nuclear",
+                "Engenharia Química",
+                "Arquitetura e Urbanismo",
+                "Design",
+                "Farmácia",
+                "Direito",
+                "Ciências Contábeis",
+                "Administração",
+                "Ciências Atuariais",
+                "Pedagogia",
+                "Ciências Sociais",
+                "Filosofia",
+                "Geografia",
+                "História",
+                "Letras",
+                "Odontologia",
+                "Saúde Pública",
+                "Astronomia",
+                "Geofísica",
+                "Meteorologia",
+                "Ciências Biológicas",
+                "Ciências Biomédicas",
+                "Ciências Fundamentais para a Saúde",
+                "Física",
+                "Geologia",
+                "Geociências e Educação Ambiental",
+                "Ciência da Computação",
+                "Estatística",
+                "Matemática",
+                "Matemática Aplicada",
+                "Matemática Aplicada e Computacional",
+                "Psicologia",
+                "Química",
+                "Relações Internacionais",
+                "Oceanografia",
+                "Medicina",
+                "Medicina Veterinária",
+                "Zootecnia",
+                "Educação Física e Esporte",
+                "Física Médica",
+                "Fisioterapia",
+                "Fonoaudiologia",
+                "Nutrição",
+                "Terapia Ocupacional",
+                "Ciências Moleculares",
+                "Ciências Econômicas",
+                "Biomedicina",
+                "Informática Em Saúde",
+                "Radiologia",
+                "Oftálmica"
+            ]
+        },
+        {
+            "nome": "São Pedro",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "São Pedro do Turvo",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "São Roque",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "São Sebastião",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "São Sebastião da Grama",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "São Simão",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "São Vicente",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": [
+                "Ciências Biológicas"
+            ]
+        },
+        {
+            "nome": "Sarapuí",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Sarutaiá",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Sebastianópolis do Sul",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Serra Azul",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Serrana",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Serra Negra",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Sertãozinho",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Sete Barras",
+            "mesorregiao": "Litoral Sul Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Severínia",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Silveiras",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Socorro",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Sorocaba",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": [
+                "Administração",
+                "Ciências Biológicas",
+                "Ciência da Computação",
+                "Ciências Econômicas",
+                "Engenharia de Produção",
+                "Engenharia Florestal",
+                "Física",
+                "Geografia",
+                "Matemática",
+                "Pedagogia",
+                "Química",
+                "Turismo"
+            ]
+        },
+        {
+            "nome": "Sud Mennucci",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Sumaré",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Suzano",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Suzanápolis",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Tabapuã",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Tabatinga",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Taboão da Serra",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Taciba",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Taguaí",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Taiaçu",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Taiúva",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Tambaú",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Tanabi",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Tapiraí",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Tapiratiba",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Taquaral",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Taquaritinga",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Taquarituba",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Taquarivaí",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Tarabai",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Tarumã",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Tatuí",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Taubaté",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Tejupá",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Teodoro Sampaio",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Terra Roxa",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Tietê",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Timburi",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Torre de Pedra",
+            "mesorregiao": "Itapetininga",
+            "cursos": []
+        },
+        {
+            "nome": "Torrinha",
+            "mesorregiao": "Piracicaba",
+            "cursos": []
+        },
+        {
+            "nome": "Trabiju",
+            "mesorregiao": "Araraquara",
+            "cursos": []
+        },
+        {
+            "nome": "Tremembé",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Três Fronteiras",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Tuiuti",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Tupã",
+            "mesorregiao": "Marília",
+            "cursos": [
+                "Administração",
+                "Engenharia de Biossistemas"
+            ]
+        },
+        {
+            "nome": "Tupi Paulista",
+            "mesorregiao": "Presidente Prudente",
+            "cursos": []
+        },
+        {
+            "nome": "Turiúba",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Turmalina",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Ubarana",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Ubatuba",
+            "mesorregiao": "Vale do Paraíba Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Ubirajara",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Uchoa",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "União Paulista",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Urânia",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Uru",
+            "mesorregiao": "Bauru",
+            "cursos": []
+        },
+        {
+            "nome": "Urupês",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Valentim Gentil",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Valinhos",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Valparaíso",
+            "mesorregiao": "Araçatuba",
+            "cursos": []
+        },
+        {
+            "nome": "Vargem",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Vargem Grande do Sul",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Vargem Grande Paulista",
+            "mesorregiao": "Metropolitana de São Paulo",
+            "cursos": []
+        },
+        {
+            "nome": "Várzea Paulista",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Vera Cruz",
+            "mesorregiao": "Marília",
+            "cursos": []
+        },
+        {
+            "nome": "Vinhedo",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        },
+        {
+            "nome": "Viradouro",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Vista Alegre do Alto",
+            "mesorregiao": "Ribeirão Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Vitória Brasil",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Votorantim",
+            "mesorregiao": "Macro Metropolitana Paulista",
+            "cursos": []
+        },
+        {
+            "nome": "Votuporanga",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Zacarias",
+            "mesorregiao": "São José do Rio Preto",
+            "cursos": []
+        },
+        {
+            "nome": "Chavantes",
+            "mesorregiao": "Assis",
+            "cursos": []
+        },
+        {
+            "nome": "Estiva Gerbi",
+            "mesorregiao": "Campinas",
+            "cursos": []
+        }
+    ]
+}
