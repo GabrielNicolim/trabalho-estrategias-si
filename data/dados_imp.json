@@ -2,3871 +2,3226 @@
   {
     "local": "Adamantina",
     "population": "33888",
-    "urbanization_percentage": "1316",
-    "ibge_code": "96"
+    "urbanization_percentage": 1316
   },
   {
     "local": "Adolfo",
     "population": "3469",
-    "urbanization_percentage": "271",
-    "ibge_code": "92"
+    "urbanization_percentage": 271
   },
   {
     "local": "Aguaí",
     "population": "34919",
-    "urbanization_percentage": "2846",
-    "ibge_code": "91"
+    "urbanization_percentage": 2846
   },
   {
     "local": "Águas da Prata",
     "population": "7758",
-    "urbanization_percentage": "645",
-    "ibge_code": "91"
+    "urbanization_percentage": 645
   },
   {
     "local": "Águas de Lindóia",
     "population": "18163",
-    "urbanization_percentage": "163",
-    "ibge_code": "99"
+    "urbanization_percentage": 163
   },
   {
     "local": "Águas de Santa Bárbara",
     "population": "5865",
-    "urbanization_percentage": "1325",
-    "ibge_code": "77"
+    "urbanization_percentage": 1325
   },
   {
     "local": "Águas de São Pedro",
     "population": "3043",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Agudos",
     "population": "35828",
-    "urbanization_percentage": "1357",
-    "ibge_code": "96"
+    "urbanization_percentage": 1357
   },
   {
     "local": "Alambari",
     "population": "5600",
-    "urbanization_percentage": "1084",
-    "ibge_code": "80"
+    "urbanization_percentage": 1084
   },
   {
     "local": "Alfredo Marcondes",
     "population": "3923",
-    "urbanization_percentage": "414",
-    "ibge_code": "89"
+    "urbanization_percentage": 414
   },
   {
     "local": "Altair",
     "population": "3994",
-    "urbanization_percentage": "655",
-    "ibge_code": "83"
+    "urbanization_percentage": 655
   },
   {
     "local": "Altinópolis",
     "population": "15557",
-    "urbanization_percentage": "1397",
-    "ibge_code": "91"
+    "urbanization_percentage": 1397
   },
   {
     "local": "Alto Alegre",
     "population": "4037",
-    "urbanization_percentage": "651",
-    "ibge_code": "83"
+    "urbanization_percentage": 651
   },
   {
     "local": "Alumínio",
     "population": "17747",
-    "urbanization_percentage": "2862",
-    "ibge_code": "83"
+    "urbanization_percentage": 2862
   },
   {
     "local": "Álvares Florence",
     "population": "3673",
-    "urbanization_percentage": "1010",
-    "ibge_code": "72"
+    "urbanization_percentage": 1010
   },
   {
     "local": "Álvares Machado",
     "population": "23714",
-    "urbanization_percentage": "2117",
-    "ibge_code": "91"
+    "urbanization_percentage": 2117
   },
   {
     "local": "Álvaro de Carvalho",
     "population": "4962",
-    "urbanization_percentage": "1655",
-    "ibge_code": "66"
+    "urbanization_percentage": 1655
   },
   {
     "local": "Alvinlândia",
     "population": "3142",
-    "urbanization_percentage": "257",
-    "ibge_code": "91"
+    "urbanization_percentage": 257
   },
   {
     "local": "Americana",
     "population": "229283",
-    "urbanization_percentage": "1071",
-    "ibge_code": "99"
+    "urbanization_percentage": 1071
   },
   {
     "local": "Américo Brasiliense",
     "population": "39121",
-    "urbanization_percentage": "296",
-    "ibge_code": "99"
+    "urbanization_percentage": 296
   },
   {
     "local": "Américo de Campos",
     "population": "5734",
-    "urbanization_percentage": "86",
-    "ibge_code": "99"
+    "urbanization_percentage": 86
   },
   {
     "local": "Amparo",
     "population": "68945",
-    "urbanization_percentage": "11585",
-    "ibge_code": "83"
+    "urbanization_percentage": 11585
   },
   {
     "local": "Analândia",
     "population": "4746",
-    "urbanization_percentage": "806",
-    "ibge_code": "83"
+    "urbanization_percentage": 806
   },
   {
     "local": "Andradina",
     "population": "55943",
-    "urbanization_percentage": "3289",
-    "ibge_code": "94"
+    "urbanization_percentage": 3289
   },
   {
     "local": "Angatuba",
     "population": "24038",
-    "urbanization_percentage": "6192",
-    "ibge_code": "74"
+    "urbanization_percentage": 6192
   },
   {
     "local": "Anhembi",
     "population": "6467",
-    "urbanization_percentage": "1413",
-    "ibge_code": "78"
+    "urbanization_percentage": 1413
   },
   {
     "local": "Anhumas",
     "population": "3919",
-    "urbanization_percentage": "520",
-    "ibge_code": "86"
+    "urbanization_percentage": 520
   },
   {
     "local": "Aparecida",
     "population": "35570",
-    "urbanization_percentage": "517",
-    "ibge_code": "98"
+    "urbanization_percentage": 517
   },
   {
     "local": "Aparecida d'Oeste",
     "population": "4192",
-    "urbanization_percentage": "585",
-    "ibge_code": "86"
+    "urbanization_percentage": 585
   },
   {
     "local": "Apiaí",
     "population": "24681",
-    "urbanization_percentage": "5056",
-    "ibge_code": "79"
+    "urbanization_percentage": 5056
   },
   {
     "local": "Aramina",
     "population": "5433",
-    "urbanization_percentage": "222",
-    "ibge_code": "95"
+    "urbanization_percentage": 222
   },
   {
     "local": "Arandu",
     "population": "6154",
-    "urbanization_percentage": "1155",
-    "ibge_code": "81"
+    "urbanization_percentage": 1155
   },
   {
     "local": "Arapeí",
     "population": "2471",
-    "urbanization_percentage": "563",
-    "ibge_code": "77"
+    "urbanization_percentage": 563
   },
   {
     "local": "Araraquara",
     "population": "224389",
-    "urbanization_percentage": "6379",
-    "ibge_code": "97"
+    "urbanization_percentage": 6379
   },
   {
     "local": "Araras",
     "population": "128676",
-    "urbanization_percentage": "6312",
-    "ibge_code": "95"
+    "urbanization_percentage": 6312
   },
   {
     "local": "Araçariguama",
     "population": "20223",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Araçatuba",
     "population": "188884",
-    "urbanization_percentage": "3643",
-    "ibge_code": "98"
+    "urbanization_percentage": 3643
   },
   {
     "local": "Araçoiaba da Serra",
     "population": "31373",
-    "urbanization_percentage": "9809",
-    "ibge_code": "68"
+    "urbanization_percentage": 9809
   },
   {
     "local": "Arco-Íris",
     "population": "1832",
-    "urbanization_percentage": "62",
-    "ibge_code": "77"
+    "urbanization_percentage": 62
   },
   {
     "local": "Arealva",
     "population": "8127",
-    "urbanization_percentage": "1386",
-    "ibge_code": "82"
+    "urbanization_percentage": 1386
   },
   {
     "local": "Areias",
     "population": "3807",
-    "urbanization_percentage": "1255",
-    "ibge_code": "67"
+    "urbanization_percentage": 1255
   },
   {
     "local": "Areiópolis",
     "population": "10788",
-    "urbanization_percentage": "859",
-    "ibge_code": "92"
+    "urbanization_percentage": 859
   },
   {
     "local": "Ariranha",
     "population": "9171",
-    "urbanization_percentage": "486",
-    "ibge_code": "94"
+    "urbanization_percentage": 486
   },
   {
     "local": "Artur Nogueira",
     "population": "51092",
-    "urbanization_percentage": "4833",
-    "ibge_code": "90"
+    "urbanization_percentage": 4833
   },
   {
     "local": "Arujá",
     "population": "86746",
-    "urbanization_percentage": "3254",
-    "ibge_code": "96"
+    "urbanization_percentage": 3254
   },
   {
     "local": "Aspásia",
     "population": "1774",
-    "urbanization_percentage": "73",
-    "ibge_code": "9"
+    "urbanization_percentage": 73
   },
   {
     "local": "Assis",
     "population": "100184",
-    "urbanization_percentage": "4373",
-    "ibge_code": "95"
+    "urbanization_percentage": 4373
   },
   {
     "local": "Atibaia",
     "population": "137107",
-    "urbanization_percentage": "9298",
-    "ibge_code": "93"
+    "urbanization_percentage": 9298
   },
   {
     "local": "Auriflama",
     "population": "14429",
-    "urbanization_percentage": "1007",
-    "ibge_code": "93"
+    "urbanization_percentage": 1007
   },
   {
     "local": "Avaí",
     "population": "5223",
-    "urbanization_percentage": "1716",
-    "ibge_code": "67"
+    "urbanization_percentage": 1716
   },
   {
     "local": "Avanhandava",
     "population": "11949",
-    "urbanization_percentage": "1846",
-    "ibge_code": "84"
+    "urbanization_percentage": 1846
   },
   {
     "local": "Avaré",
     "population": "86669",
-    "urbanization_percentage": "3124",
-    "ibge_code": "96"
+    "urbanization_percentage": 3124
   },
   {
     "local": "Bady Bassitt",
     "population": "16037",
-    "urbanization_percentage": "981",
-    "ibge_code": "93"
+    "urbanization_percentage": 981
   },
   {
     "local": "Balbinos",
     "population": "3699",
-    "urbanization_percentage": "2509",
-    "ibge_code": "32"
+    "urbanization_percentage": 2509
   },
   {
     "local": "Bálsamo",
     "population": "8460",
-    "urbanization_percentage": "588",
-    "ibge_code": "93"
+    "urbanization_percentage": 588
   },
   {
     "local": "Bananal",
     "population": "10560",
-    "urbanization_percentage": "1732",
-    "ibge_code": "83"
+    "urbanization_percentage": 1732
   },
   {
     "local": "Barão de Antonina",
     "population": "3328",
-    "urbanization_percentage": "1222",
-    "ibge_code": "63"
+    "urbanization_percentage": 1222
   },
   {
     "local": "Barbosa",
     "population": "7142",
-    "urbanization_percentage": "1047",
-    "ibge_code": "85"
+    "urbanization_percentage": 1047
   },
   {
     "local": "Bariri",
     "population": "33540",
-    "urbanization_percentage": "1294",
-    "ibge_code": "96"
+    "urbanization_percentage": 1294
   },
   {
     "local": "Barra Bonita",
     "population": "34971",
-    "urbanization_percentage": "659",
-    "ibge_code": "98"
+    "urbanization_percentage": 659
   },
   {
     "local": "Barra do Chapéu",
     "population": "5470",
-    "urbanization_percentage": "3859",
-    "ibge_code": "29"
+    "urbanization_percentage": 3859
   },
   {
     "local": "Barra do Turvo",
     "population": "7676",
-    "urbanization_percentage": "4177",
-    "ibge_code": "45"
+    "urbanization_percentage": 4177
   },
   {
     "local": "Barretos",
     "population": "116973",
-    "urbanization_percentage": "3563",
-    "ibge_code": "96"
+    "urbanization_percentage": 3563
   },
   {
     "local": "Barrinha",
     "population": "31574",
-    "urbanization_percentage": "350",
-    "ibge_code": "98"
+    "urbanization_percentage": 350
   },
   {
     "local": "Barueri",
     "population": "259793",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Bastos",
     "population": "20284",
-    "urbanization_percentage": "2390",
-    "ibge_code": "88"
+    "urbanization_percentage": 2390
   },
   {
     "local": "Batatais",
     "population": "59517",
-    "urbanization_percentage": "6883",
-    "ibge_code": "88"
+    "urbanization_percentage": 6883
   },
   {
     "local": "Bauru",
     "population": "360478",
-    "urbanization_percentage": "6030",
-    "ibge_code": "98"
+    "urbanization_percentage": 6030
   },
   {
     "local": "Bebedouro",
     "population": "74373",
-    "urbanization_percentage": "2951",
-    "ibge_code": "96"
+    "urbanization_percentage": 2951
   },
   {
     "local": "Bento de Abreu",
     "population": "2892",
-    "urbanization_percentage": "144",
-    "ibge_code": "95"
+    "urbanization_percentage": 144
   },
   {
     "local": "Bernardino de Campos",
     "population": "10780",
-    "urbanization_percentage": "952",
-    "ibge_code": "91"
+    "urbanization_percentage": 952
   },
   {
     "local": "Bertioga",
     "population": "60120",
-    "urbanization_percentage": "630",
-    "ibge_code": "98"
+    "urbanization_percentage": 630
   },
   {
     "local": "Bilac",
     "population": "7676",
-    "urbanization_percentage": "465",
-    "ibge_code": "93"
+    "urbanization_percentage": 465
   },
   {
     "local": "Birigui",
     "population": "118960",
-    "urbanization_percentage": "3210",
-    "ibge_code": "97"
+    "urbanization_percentage": 3210
   },
   {
     "local": "Biritiba Mirim",
     "population": "31571",
-    "urbanization_percentage": "4116",
-    "ibge_code": "86"
+    "urbanization_percentage": 4116
   },
   {
     "local": "Boa Esperança do Sul",
     "population": "14396",
-    "urbanization_percentage": "1228",
-    "ibge_code": "91"
+    "urbanization_percentage": 1228
   },
   {
     "local": "Bocaina",
     "population": "11888",
-    "urbanization_percentage": "806",
-    "ibge_code": "93"
+    "urbanization_percentage": 806
   },
   {
     "local": "Bofete",
     "population": "10790",
-    "urbanization_percentage": "3911",
-    "ibge_code": "63"
+    "urbanization_percentage": 3911
   },
   {
     "local": "Boituva",
     "population": "55630",
-    "urbanization_percentage": "3300",
-    "ibge_code": "94"
+    "urbanization_percentage": 3300
   },
   {
     "local": "Bom Jesus dos Perdões",
     "population": "23399",
-    "urbanization_percentage": "2212",
-    "ibge_code": "90"
+    "urbanization_percentage": 2212
   },
   {
     "local": "Bom Sucesso de Itararé",
     "population": "3797",
-    "urbanization_percentage": "1007",
-    "ibge_code": "73"
+    "urbanization_percentage": 1007
   },
   {
     "local": "Borá",
     "population": "810",
-    "urbanization_percentage": "179",
-    "ibge_code": "77"
+    "urbanization_percentage": 179
   },
   {
     "local": "Boracéia",
     "population": "4662",
-    "urbanization_percentage": "422",
-    "ibge_code": "90"
+    "urbanization_percentage": 422
   },
   {
     "local": "Borborema",
     "population": "15183",
-    "urbanization_percentage": "995",
-    "ibge_code": "93"
+    "urbanization_percentage": 995
   },
   {
     "local": "Borebi",
     "population": "2524",
-    "urbanization_percentage": "197",
-    "ibge_code": "92"
+    "urbanization_percentage": 197
   },
   {
     "local": "Botucatu",
     "population": "138590",
-    "urbanization_percentage": "4731",
-    "ibge_code": "96"
+    "urbanization_percentage": 4731
   },
   {
     "local": "Bragança Paulista",
     "population": "160840",
-    "urbanization_percentage": "3192",
-    "ibge_code": "98"
+    "urbanization_percentage": 3192
   },
   {
     "local": "Braúna",
     "population": "5452",
-    "urbanization_percentage": "439",
-    "ibge_code": "91"
+    "urbanization_percentage": 439
   },
   {
     "local": "Brejo Alegre",
     "population": "2732",
-    "urbanization_percentage": "405",
-    "ibge_code": "85"
+    "urbanization_percentage": 405
   },
   {
     "local": "Brodowski",
     "population": "23430",
-    "urbanization_percentage": "329",
-    "ibge_code": "98"
+    "urbanization_percentage": 329
   },
   {
     "local": "Brotas",
     "population": "23423",
-    "urbanization_percentage": "3094",
-    "ibge_code": "86"
+    "urbanization_percentage": 3094
   },
   {
     "local": "Buri",
     "population": "19428",
-    "urbanization_percentage": "3281",
-    "ibge_code": "83"
+    "urbanization_percentage": 3281
   },
   {
     "local": "Buritama",
     "population": "16377",
-    "urbanization_percentage": "710",
-    "ibge_code": "95"
+    "urbanization_percentage": 710
   },
   {
     "local": "Buritizal",
     "population": "4259",
-    "urbanization_percentage": "706",
-    "ibge_code": "83"
+    "urbanization_percentage": 706
   },
   {
     "local": "Cabrália Paulista",
     "population": "4313",
-    "urbanization_percentage": "555",
-    "ibge_code": "87"
+    "urbanization_percentage": 555
   },
   {
     "local": "Cabreúva",
     "population": "47842",
-    "urbanization_percentage": "5370",
-    "ibge_code": "88"
+    "urbanization_percentage": 5370
   },
   {
     "local": "Cachoeira Paulista",
     "population": "31825",
-    "urbanization_percentage": "5369",
-    "ibge_code": "83"
+    "urbanization_percentage": 5369
   },
   {
     "local": "Caconde",
     "population": "18786",
-    "urbanization_percentage": "5430",
-    "ibge_code": "71"
+    "urbanization_percentage": 5430
   },
   {
     "local": "Cafelândia",
     "population": "17121",
-    "urbanization_percentage": "1800",
-    "ibge_code": "89"
+    "urbanization_percentage": 1800
   },
   {
     "local": "Caiabu",
     "population": "4099",
-    "urbanization_percentage": "627",
-    "ibge_code": "84"
+    "urbanization_percentage": 627
   },
   {
     "local": "Caieiras",
     "population": "97763",
-    "urbanization_percentage": "1810",
-    "ibge_code": "98"
+    "urbanization_percentage": 1810
   },
   {
     "local": "Caiuá",
     "population": "5489",
-    "urbanization_percentage": "3387",
-    "ibge_code": "38"
+    "urbanization_percentage": 3387
   },
   {
     "local": "Cajamar",
     "population": "74910",
-    "urbanization_percentage": "948",
-    "ibge_code": "98"
+    "urbanization_percentage": 948
   },
   {
     "local": "Cajati",
     "population": "28795",
-    "urbanization_percentage": "7505",
-    "ibge_code": "73"
+    "urbanization_percentage": 7505
   },
   {
     "local": "Cajobi",
     "population": "10046",
-    "urbanization_percentage": "531",
-    "ibge_code": "94"
+    "urbanization_percentage": 531
   },
   {
     "local": "Cajuru",
     "population": "25206",
-    "urbanization_percentage": "2697",
-    "ibge_code": "89"
+    "urbanization_percentage": 2697
   },
   {
     "local": "Campina do Monte Alegre",
     "population": "5763",
-    "urbanization_percentage": "723",
-    "ibge_code": "87"
+    "urbanization_percentage": 723
   },
   {
     "local": "Campinas",
     "population": "1158944",
-    "urbanization_percentage": "19929",
-    "ibge_code": "98"
+    "urbanization_percentage": 19929
   },
   {
     "local": "Campo Limpo Paulista",
     "population": "81126",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Campos do Jordão",
     "population": "49666",
-    "urbanization_percentage": "310",
-    "ibge_code": "99"
+    "urbanization_percentage": 310
   },
   {
     "local": "Campos Novos Paulista",
     "population": "4760",
-    "urbanization_percentage": "81",
-    "ibge_code": "76"
+    "urbanization_percentage": 81
   },
   {
     "local": "Cananéia",
     "population": "12289",
-    "urbanization_percentage": "1652",
-    "ibge_code": "86"
+    "urbanization_percentage": 1652
   },
   {
     "local": "Canas",
     "population": "4929",
-    "urbanization_percentage": "210",
-    "ibge_code": "95"
+    "urbanization_percentage": 210
   },
   {
     "local": "Cândido Mota",
     "population": "29997",
-    "urbanization_percentage": "1518",
-    "ibge_code": "94"
+    "urbanization_percentage": 1518
   },
   {
     "local": "Cândido Rodrigues",
     "population": "2674",
-    "urbanization_percentage": "411",
-    "ibge_code": "84"
+    "urbanization_percentage": 411
   },
   {
     "local": "Canitar",
     "population": "4862",
-    "urbanization_percentage": "221",
-    "ibge_code": "95"
+    "urbanization_percentage": 221
   },
   {
     "local": "Capão Bonito",
     "population": "46303",
-    "urbanization_percentage": "7210",
-    "ibge_code": "84"
+    "urbanization_percentage": 7210
   },
   {
     "local": "Capela do Alto",
     "population": "19913",
-    "urbanization_percentage": "2783",
-    "ibge_code": "86"
+    "urbanization_percentage": 2783
   },
   {
     "local": "Capivari",
     "population": "53100",
-    "urbanization_percentage": "1447",
-    "ibge_code": "97"
+    "urbanization_percentage": 1447
   },
   {
     "local": "Caraguatatuba",
     "population": "113208",
-    "urbanization_percentage": "4292",
-    "ibge_code": "96"
+    "urbanization_percentage": 4292
   },
   {
     "local": "Carapicuíba",
     "population": "390010",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Cardoso",
     "population": "11740",
-    "urbanization_percentage": "963",
-    "ibge_code": "91"
+    "urbanization_percentage": 963
   },
   {
     "local": "Casa Branca",
     "population": "29236",
-    "urbanization_percentage": "5079",
-    "ibge_code": "82"
+    "urbanization_percentage": 5079
   },
   {
     "local": "Cássia dos Coqueiros",
     "population": "2518",
-    "urbanization_percentage": "624",
-    "ibge_code": "75"
+    "urbanization_percentage": 624
   },
   {
     "local": "Castilho",
     "population": "20191",
-    "urbanization_percentage": "4954",
-    "ibge_code": "75"
+    "urbanization_percentage": 4954
   },
   {
     "local": "Catanduva",
     "population": "116435",
-    "urbanization_percentage": "935",
-    "ibge_code": "99"
+    "urbanization_percentage": 935
   },
   {
     "local": "Catiguá",
     "population": "7455",
-    "urbanization_percentage": "524",
-    "ibge_code": "92"
+    "urbanization_percentage": 524
   },
   {
     "local": "Caçapava",
     "population": "90057",
-    "urbanization_percentage": "13001",
-    "ibge_code": "85"
+    "urbanization_percentage": 13001
   },
   {
     "local": "Cedral",
     "population": "8673",
-    "urbanization_percentage": "1542",
-    "ibge_code": "82"
+    "urbanization_percentage": 1542
   },
   {
     "local": "Cerqueira César",
     "population": "18879",
-    "urbanization_percentage": "1555",
-    "ibge_code": "91"
+    "urbanization_percentage": 1555
   },
   {
     "local": "Cerquilho",
     "population": "45164",
-    "urbanization_percentage": "2337",
-    "ibge_code": "94"
+    "urbanization_percentage": 2337
   },
   {
     "local": "Cesário Lange",
     "population": "16951",
-    "urbanization_percentage": "5506",
-    "ibge_code": "67"
+    "urbanization_percentage": 5506
   },
   {
     "local": "Charqueada",
     "population": "16571",
-    "urbanization_percentage": "1435",
-    "ibge_code": "91"
+    "urbanization_percentage": 1435
   },
   {
     "local": "Chavantes",
     "population": "12201",
-    "urbanization_percentage": "733",
-    "ibge_code": "93"
+    "urbanization_percentage": 733
   },
   {
     "local": "Clementina",
     "population": "8087",
-    "urbanization_percentage": "269",
-    "ibge_code": "96"
+    "urbanization_percentage": 269
   },
   {
     "local": "Colina",
     "population": "17568",
-    "urbanization_percentage": "869",
-    "ibge_code": "95"
+    "urbanization_percentage": 869
   },
   {
     "local": "Colômbia",
     "population": "6037",
-    "urbanization_percentage": "1536",
-    "ibge_code": "74"
+    "urbanization_percentage": 1536
   },
   {
     "local": "Conchal",
     "population": "26881",
-    "urbanization_percentage": "971",
-    "ibge_code": "96"
+    "urbanization_percentage": 971
   },
   {
     "local": "Conchas",
     "population": "16966",
-    "urbanization_percentage": "2616",
-    "ibge_code": "84"
+    "urbanization_percentage": 2616
   },
   {
     "local": "Cordeirópolis",
     "population": "23732",
-    "urbanization_percentage": "2416",
-    "ibge_code": "89"
+    "urbanization_percentage": 2416
   },
   {
     "local": "Coroados",
     "population": "5802",
-    "urbanization_percentage": "877",
-    "ibge_code": "84"
+    "urbanization_percentage": 877
   },
   {
     "local": "Coronel Macedo",
     "population": "4864",
-    "urbanization_percentage": "920",
-    "ibge_code": "81"
+    "urbanization_percentage": 920
   },
   {
     "local": "Corumbataí",
     "population": "3945",
-    "urbanization_percentage": "1545",
-    "ibge_code": "60"
+    "urbanization_percentage": 1545
   },
   {
     "local": "Cosmópolis",
     "population": "68838",
-    "urbanization_percentage": "4907",
-    "ibge_code": "92"
+    "urbanization_percentage": 4907
   },
   {
     "local": "Cosmorama",
     "population": "7038",
-    "urbanization_percentage": "1744",
-    "ibge_code": "75"
+    "urbanization_percentage": 1744
   },
   {
     "local": "Cotia",
     "population": "238189",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Cravinhos",
     "population": "33896",
-    "urbanization_percentage": "554",
-    "ibge_code": "98"
+    "urbanization_percentage": 554
   },
   {
     "local": "Cristais Paulista",
     "population": "8265",
-    "urbanization_percentage": "1552",
-    "ibge_code": "81"
+    "urbanization_percentage": 1552
   },
   {
     "local": "Cruzália",
     "population": "2144",
-    "urbanization_percentage": "636",
-    "ibge_code": "70"
+    "urbanization_percentage": 636
   },
   {
     "local": "Cruzeiro",
     "population": "79386",
-    "urbanization_percentage": "1834",
-    "ibge_code": "97"
+    "urbanization_percentage": 1834
   },
   {
     "local": "Cubatão",
     "population": "127079",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Cunha",
     "population": "21687",
-    "urbanization_percentage": "8375",
-    "ibge_code": "61"
+    "urbanization_percentage": 8375
   },
   {
     "local": "Descalvado",
     "population": "32176",
-    "urbanization_percentage": "2525",
-    "ibge_code": "92"
+    "urbanization_percentage": 2525
   },
   {
     "local": "Diadema",
     "population": "401159",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Dirce Reis",
     "population": "1713",
-    "urbanization_percentage": "319",
-    "ibge_code": "81"
+    "urbanization_percentage": 319
   },
   {
     "local": "Divinolândia",
     "population": "10940",
-    "urbanization_percentage": "2876",
-    "ibge_code": "73"
+    "urbanization_percentage": 2876
   },
   {
     "local": "Dobrada",
     "population": "8710",
-    "urbanization_percentage": "194",
-    "ibge_code": "97"
+    "urbanization_percentage": 194
   },
   {
     "local": "Dois Córregos",
     "population": "26526",
-    "urbanization_percentage": "922",
-    "ibge_code": "96"
+    "urbanization_percentage": 922
   },
   {
     "local": "Dolcinópolis",
     "population": "2051",
-    "urbanization_percentage": "127",
-    "ibge_code": "93"
+    "urbanization_percentage": 127
   },
   {
     "local": "Dourado",
     "population": "8506",
-    "urbanization_percentage": "711",
-    "ibge_code": "91"
+    "urbanization_percentage": 711
   },
   {
     "local": "Dracena",
     "population": "44694",
-    "urbanization_percentage": "3223",
-    "ibge_code": "92"
+    "urbanization_percentage": 3223
   },
   {
     "local": "Duartina",
     "population": "12031",
-    "urbanization_percentage": "987",
-    "ibge_code": "91"
+    "urbanization_percentage": 987
   },
   {
     "local": "Dumont",
     "population": "9321",
-    "urbanization_percentage": "196",
-    "ibge_code": "97"
+    "urbanization_percentage": 196
   },
   {
     "local": "Echaporã",
     "population": "6235",
-    "urbanization_percentage": "1111",
-    "ibge_code": "82"
+    "urbanization_percentage": 1111
   },
   {
     "local": "Eldorado",
     "population": "15072",
-    "urbanization_percentage": "7655",
-    "ibge_code": "49"
+    "urbanization_percentage": 7655
   },
   {
     "local": "Elias Fausto",
     "population": "17048",
-    "urbanization_percentage": "2835",
-    "ibge_code": "83"
+    "urbanization_percentage": 2835
   },
   {
     "local": "Elisiário",
     "population": "3428",
-    "urbanization_percentage": "234",
-    "ibge_code": "93"
+    "urbanization_percentage": 234
   },
   {
     "local": "Embaúba",
     "population": "2409",
-    "urbanization_percentage": "286",
-    "ibge_code": "88"
+    "urbanization_percentage": 286
   },
   {
     "local": "Embu das Artes",
     "population": "264787",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Embu-Guaçu",
     "population": "66993",
-    "urbanization_percentage": "1787",
-    "ibge_code": "97"
+    "urbanization_percentage": 1787
   },
   {
     "local": "Emilianópolis",
     "population": "3063",
-    "urbanization_percentage": "402",
-    "ibge_code": "86"
+    "urbanization_percentage": 402
   },
   {
     "local": "Engenheiro Coelho",
     "population": "19628",
-    "urbanization_percentage": "4794",
-    "ibge_code": "75"
+    "urbanization_percentage": 4794
   },
   {
     "local": "Espírito Santo do Pinhal",
     "population": "42461",
-    "urbanization_percentage": "3906",
-    "ibge_code": "90"
+    "urbanization_percentage": 3906
   },
   {
     "local": "Espírito Santo do Turvo",
     "population": "4685",
-    "urbanization_percentage": "678",
-    "ibge_code": "85"
+    "urbanization_percentage": 678
   },
   {
     "local": "Estiva Gerbi",
     "population": "10877",
-    "urbanization_percentage": "2202",
-    "ibge_code": "79"
+    "urbanization_percentage": 2202
   },
   {
     "local": "Estrela d'Oeste",
     "population": "8119",
-    "urbanization_percentage": "1092",
-    "ibge_code": "86"
+    "urbanization_percentage": 1092
   },
   {
     "local": "Estrela do Norte",
     "population": "2661",
-    "urbanization_percentage": "391",
-    "ibge_code": "85"
+    "urbanization_percentage": 391
   },
   {
     "local": "Euclides da Cunha Paulista",
     "population": "9523",
-    "urbanization_percentage": "3392",
-    "ibge_code": "64"
+    "urbanization_percentage": 3392
   },
   {
     "local": "Fartura",
     "population": "15570",
-    "urbanization_percentage": "2689",
-    "ibge_code": "82"
+    "urbanization_percentage": 2689
   },
   {
     "local": "Fernando Prestes",
     "population": "5567",
-    "urbanization_percentage": "578",
-    "ibge_code": "89"
+    "urbanization_percentage": 578
   },
   {
     "local": "Fernandópolis",
     "population": "65887",
-    "urbanization_percentage": "2018",
-    "ibge_code": "96"
+    "urbanization_percentage": 2018
   },
   {
     "local": "Fernão",
     "population": "1631",
-    "urbanization_percentage": "654",
-    "ibge_code": "59"
+    "urbanization_percentage": 654
   },
   {
     "local": "Ferraz de Vasconcelos",
     "population": "188035",
-    "urbanization_percentage": "8437",
-    "ibge_code": "95"
+    "urbanization_percentage": 8437
   },
   {
     "local": "Flora Rica",
     "population": "1615",
-    "urbanization_percentage": "223",
-    "ibge_code": "86"
+    "urbanization_percentage": 223
   },
   {
     "local": "Floreal",
     "population": "2884",
-    "urbanization_percentage": "458",
-    "ibge_code": "84"
+    "urbanization_percentage": 458
   },
   {
     "local": "Flórida Paulista",
     "population": "12249",
-    "urbanization_percentage": "2585",
-    "ibge_code": "78"
+    "urbanization_percentage": 2585
   },
   {
     "local": "Florínea",
     "population": "2722",
-    "urbanization_percentage": "242",
-    "ibge_code": "91"
+    "urbanization_percentage": 242
   },
   {
     "local": "Franca",
     "population": "337738",
-    "urbanization_percentage": "5929",
-    "ibge_code": "98"
+    "urbanization_percentage": 5929
   },
   {
     "local": "Francisco Morato",
     "population": "170189",
-    "urbanization_percentage": "346",
-    "ibge_code": "99"
+    "urbanization_percentage": 346
   },
   {
     "local": "Franco da Rocha",
     "population": "148126",
-    "urbanization_percentage": "11661",
-    "ibge_code": "92"
+    "urbanization_percentage": 11661
   },
   {
     "local": "Gabriel Monteiro",
     "population": "2692",
-    "urbanization_percentage": "324",
-    "ibge_code": "87"
+    "urbanization_percentage": 324
   },
   {
     "local": "Gália",
     "population": "6629",
-    "urbanization_percentage": "1527",
-    "ibge_code": "76"
+    "urbanization_percentage": 1527
   },
   {
     "local": "Garça",
     "population": "42597",
-    "urbanization_percentage": "2844",
-    "ibge_code": "93"
+    "urbanization_percentage": 2844
   },
   {
     "local": "Gastão Vidigal",
     "population": "4664",
-    "urbanization_percentage": "319",
-    "ibge_code": "93"
+    "urbanization_percentage": 319
   },
   {
     "local": "Gavião Peixoto",
     "population": "4572",
-    "urbanization_percentage": "548",
-    "ibge_code": "88"
+    "urbanization_percentage": 548
   },
   {
     "local": "General Salgado",
     "population": "10663",
-    "urbanization_percentage": "1290",
-    "ibge_code": "87"
+    "urbanization_percentage": 1290
   },
   {
     "local": "Getulina",
     "population": "10827",
-    "urbanization_percentage": "2085",
-    "ibge_code": "80"
+    "urbanization_percentage": 2085
   },
   {
     "local": "Glicério",
     "population": "4714",
-    "urbanization_percentage": "1113",
-    "ibge_code": "76"
+    "urbanization_percentage": 1113
   },
   {
     "local": "Guaimbê",
     "population": "5507",
-    "urbanization_percentage": "522",
-    "ibge_code": "90"
+    "urbanization_percentage": 522
   },
   {
     "local": "Guaíra",
     "population": "38766",
-    "urbanization_percentage": "1226",
-    "ibge_code": "96"
+    "urbanization_percentage": 1226
   },
   {
     "local": "Guaiçara",
     "population": "11698",
-    "urbanization_percentage": "846",
-    "ibge_code": "92"
+    "urbanization_percentage": 846
   },
   {
     "local": "Guapiara",
     "population": "17741",
-    "urbanization_percentage": "10328",
-    "ibge_code": "41"
+    "urbanization_percentage": 10328
   },
   {
     "local": "Guapiaçu",
     "population": "20293",
-    "urbanization_percentage": "1933",
-    "ibge_code": "90"
+    "urbanization_percentage": 1933
   },
   {
     "local": "Guará",
     "population": "20622",
-    "urbanization_percentage": "514",
-    "ibge_code": "97"
+    "urbanization_percentage": 514
   },
   {
     "local": "Guaraci",
     "population": "10781",
-    "urbanization_percentage": "821",
-    "ibge_code": "92"
+    "urbanization_percentage": 821
   },
   {
     "local": "Guarani d'Oeste",
     "population": "1932",
-    "urbanization_percentage": "210",
-    "ibge_code": "89"
+    "urbanization_percentage": 210
   },
   {
     "local": "Guarantã",
     "population": "6461",
-    "urbanization_percentage": "651",
-    "ibge_code": "89"
+    "urbanization_percentage": 651
   },
   {
     "local": "Guararapes",
     "population": "31822",
-    "urbanization_percentage": "1986",
-    "ibge_code": "93"
+    "urbanization_percentage": 1986
   },
   {
     "local": "Guararema",
     "population": "28692",
-    "urbanization_percentage": "4001",
-    "ibge_code": "86"
+    "urbanization_percentage": 4001
   },
   {
     "local": "Guaratinguetá",
     "population": "117177",
-    "urbanization_percentage": "5449",
-    "ibge_code": "95"
+    "urbanization_percentage": 5449
   },
   {
     "local": "Guaraçaí",
     "population": "8424",
-    "urbanization_percentage": "1556",
-    "ibge_code": "81"
+    "urbanization_percentage": 1556
   },
   {
     "local": "Guareí",
     "population": "15512",
-    "urbanization_percentage": "6552",
-    "ibge_code": "57"
+    "urbanization_percentage": 6552
   },
   {
     "local": "Guariba",
     "population": "38344",
-    "urbanization_percentage": "638",
-    "ibge_code": "98"
+    "urbanization_percentage": 638
   },
   {
     "local": "Guarujá",
     "population": "311128",
-    "urbanization_percentage": "99",
-    "ibge_code": "98"
+    "urbanization_percentage": 99
   },
   {
     "local": "Guarulhos",
     "population": "1325750",
-    "urbanization_percentage": "100",
-    "ibge_code": "3518800"
+    "urbanization_percentage": 100
   },
   {
     "local": "Guatapará",
     "population": "7345",
-    "urbanization_percentage": "1532",
-    "ibge_code": "79"
+    "urbanization_percentage": 1532
   },
   {
     "local": "Guzolândia",
     "population": "5038",
-    "urbanization_percentage": "589",
-    "ibge_code": "88"
+    "urbanization_percentage": 589
   },
   {
     "local": "Herculândia",
     "population": "9147",
-    "urbanization_percentage": "614",
-    "ibge_code": "93"
+    "urbanization_percentage": 614
   },
   {
     "local": "Holambra",
     "population": "13901",
-    "urbanization_percentage": "2393",
-    "ibge_code": "82"
+    "urbanization_percentage": 2393
   },
   {
     "local": "Hortolândia",
     "population": "222649",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Iacanga",
     "population": "11060",
-    "urbanization_percentage": "88",
-    "ibge_code": "38"
+    "urbanization_percentage": 88
   },
   {
     "local": "Iacri",
     "population": "6305",
-    "urbanization_percentage": "1041",
-    "ibge_code": "83"
+    "urbanization_percentage": 1041
   },
   {
     "local": "Iaras",
     "population": "6785",
-    "urbanization_percentage": "3766",
-    "ibge_code": "44"
+    "urbanization_percentage": 3766
   },
   {
     "local": "Ibaté",
     "population": "33956",
-    "urbanization_percentage": "1191",
-    "ibge_code": "96"
+    "urbanization_percentage": 1191
   },
   {
     "local": "Ibirá",
     "population": "11841",
-    "urbanization_percentage": "793",
-    "ibge_code": "93"
+    "urbanization_percentage": 793
   },
   {
     "local": "Ibirarema",
     "population": "7351",
-    "urbanization_percentage": "463",
-    "ibge_code": "93"
+    "urbanization_percentage": 463
   },
   {
     "local": "Ibitinga",
     "population": "57511",
-    "urbanization_percentage": "1914",
-    "ibge_code": "96"
+    "urbanization_percentage": 1914
   },
   {
     "local": "Ibiúna",
     "population": "75390",
-    "urbanization_percentage": "47862",
-    "ibge_code": "36"
+    "urbanization_percentage": 47862
   },
   {
     "local": "Icém",
     "population": "7922",
-    "urbanization_percentage": "1068",
-    "ibge_code": "86"
+    "urbanization_percentage": 1068
   },
   {
     "local": "Iepê",
     "population": "7859",
-    "urbanization_percentage": "614",
-    "ibge_code": "92"
+    "urbanization_percentage": 614
   },
   {
     "local": "Igarapava",
     "population": "29176",
-    "urbanization_percentage": "1383",
-    "ibge_code": "95"
+    "urbanization_percentage": 1383
   },
   {
     "local": "Igaratá",
     "population": "9217",
-    "urbanization_percentage": "1428",
-    "ibge_code": "84"
+    "urbanization_percentage": 1428
   },
   {
     "local": "Igaraçu do Tietê",
     "population": "23976",
-    "urbanization_percentage": "138",
-    "ibge_code": "99"
+    "urbanization_percentage": 138
   },
   {
     "local": "Iguape",
     "population": "29311",
-    "urbanization_percentage": "87",
-    "ibge_code": "41"
+    "urbanization_percentage": 87
   },
   {
     "local": "Ilha Comprida",
     "population": "10031",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Ilha Solteira",
     "population": "25643",
-    "urbanization_percentage": "1580",
-    "ibge_code": "93"
+    "urbanization_percentage": 1580
   },
   {
     "local": "Ilhabela",
     "population": "32474",
-    "urbanization_percentage": "223",
-    "ibge_code": "99"
+    "urbanization_percentage": 223
   },
   {
     "local": "Indaiatuba",
     "population": "235964",
-    "urbanization_percentage": "2372",
-    "ibge_code": "98"
+    "urbanization_percentage": 2372
   },
   {
     "local": "Indiana",
     "population": "4785",
-    "urbanization_percentage": "590",
-    "ibge_code": "87"
+    "urbanization_percentage": 590
   },
   {
     "local": "Indiaporã",
     "population": "3860",
-    "urbanization_percentage": "386",
-    "ibge_code": "90"
+    "urbanization_percentage": 386
   },
   {
     "local": "Inúbia Paulista",
     "population": "3842",
-    "urbanization_percentage": "381",
-    "ibge_code": "90"
+    "urbanization_percentage": 381
   },
   {
     "local": "Ipaussu",
     "population": "14333",
-    "urbanization_percentage": "890",
-    "ibge_code": "93"
+    "urbanization_percentage": 890
   },
   {
     "local": "Iperó",
     "population": "33195",
-    "urbanization_percentage": "12711",
-    "ibge_code": "61"
+    "urbanization_percentage": 12711
   },
   {
     "local": "Ipeúna",
     "population": "7244",
-    "urbanization_percentage": "735",
-    "ibge_code": "89"
+    "urbanization_percentage": 735
   },
   {
     "local": "Ipiguá",
     "population": "5083",
-    "urbanization_percentage": "1837",
-    "ibge_code": "63"
+    "urbanization_percentage": 1837
   },
   {
     "local": "Iporanga",
     "population": "4380",
-    "urbanization_percentage": "1587",
-    "ibge_code": "63"
+    "urbanization_percentage": 1587
   },
   {
     "local": "Ipuã",
     "population": "15526",
-    "urbanization_percentage": "519",
-    "ibge_code": "96"
+    "urbanization_percentage": 519
   },
   {
     "local": "Iracemápolis",
     "population": "22982",
-    "urbanization_percentage": "409",
-    "ibge_code": "98"
+    "urbanization_percentage": 409
   },
   {
     "local": "Irapuã",
     "population": "7647",
-    "urbanization_percentage": "625",
-    "ibge_code": "91"
+    "urbanization_percentage": 625
   },
   {
     "local": "Irapuru",
     "population": "7419",
-    "urbanization_percentage": "2174",
-    "ibge_code": "70"
+    "urbanization_percentage": 2174
   },
   {
     "local": "Itaberá",
     "population": "17639",
-    "urbanization_percentage": "4501",
-    "ibge_code": "74"
+    "urbanization_percentage": 4501
   },
   {
     "local": "Itaí",
     "population": "26002",
-    "urbanization_percentage": "5584",
-    "ibge_code": "78"
+    "urbanization_percentage": 5584
   },
   {
     "local": "Itajobi",
     "population": "14616",
-    "urbanization_percentage": "1880",
-    "ibge_code": "87"
+    "urbanization_percentage": 1880
   },
   {
     "local": "Itaju",
     "population": "3577",
-    "urbanization_percentage": "733",
-    "ibge_code": "79"
+    "urbanization_percentage": 733
   },
   {
     "local": "Itanhaém",
     "population": "96394",
-    "urbanization_percentage": "754",
-    "ibge_code": "99"
+    "urbanization_percentage": 754
   },
   {
     "local": "Itaoca",
     "population": "3186",
-    "urbanization_percentage": "1449",
-    "ibge_code": "54"
+    "urbanization_percentage": 1449
   },
   {
     "local": "Itapecerica da Serra",
     "population": "166229",
-    "urbanization_percentage": "1378",
-    "ibge_code": "99"
+    "urbanization_percentage": 1378
   },
   {
     "local": "Itapetininga",
     "population": "156973",
-    "urbanization_percentage": "12889",
-    "ibge_code": "91"
+    "urbanization_percentage": 12889
   },
   {
     "local": "Itapeva",
     "population": "90839",
-    "urbanization_percentage": "9171",
-    "ibge_code": "89"
+    "urbanization_percentage": 9171
   },
   {
     "local": "Itapevi",
     "population": "229982",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Itapira",
     "population": "71034",
-    "urbanization_percentage": "4573",
-    "ibge_code": "93"
+    "urbanization_percentage": 4573
   },
   {
     "local": "Itapirapuã Paulista",
     "population": "4109",
-    "urbanization_percentage": "2020",
-    "ibge_code": "50"
+    "urbanization_percentage": 2020
   },
   {
     "local": "Itápolis",
     "population": "41262",
-    "urbanization_percentage": "2760",
-    "ibge_code": "93"
+    "urbanization_percentage": 2760
   },
   {
     "local": "Itaporanga",
     "population": "14653",
-    "urbanization_percentage": "2878",
-    "ibge_code": "80"
+    "urbanization_percentage": 2878
   },
   {
     "local": "Itapuí",
     "population": "13467",
-    "urbanization_percentage": "429",
-    "ibge_code": "96"
+    "urbanization_percentage": 429
   },
   {
     "local": "Itapura",
     "population": "4804",
-    "urbanization_percentage": "965",
-    "ibge_code": "79"
+    "urbanization_percentage": 965
   },
   {
     "local": "Itaquaquecetuba",
     "population": "360462",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Itararé",
     "population": "48760",
-    "urbanization_percentage": "3576",
-    "ibge_code": "92"
+    "urbanization_percentage": 3576
   },
   {
     "local": "Itariri",
     "population": "16902",
-    "urbanization_percentage": "5072",
-    "ibge_code": "69"
+    "urbanization_percentage": 5072
   },
   {
     "local": "Itatiba",
     "population": "114835",
-    "urbanization_percentage": "15356",
-    "ibge_code": "86"
+    "urbanization_percentage": 15356
   },
   {
     "local": "Itatinga",
     "population": "20033",
-    "urbanization_percentage": "1410",
-    "ibge_code": "92"
+    "urbanization_percentage": 1410
   },
   {
     "local": "Itirapina",
     "population": "16840",
-    "urbanization_percentage": "1333",
-    "ibge_code": "92"
+    "urbanization_percentage": 1333
   },
   {
     "local": "Itirapuã",
     "population": "6204",
-    "urbanization_percentage": "879",
-    "ibge_code": "85"
+    "urbanization_percentage": 879
   },
   {
     "local": "Itobi",
     "population": "7596",
-    "urbanization_percentage": "498",
-    "ibge_code": "93"
+    "urbanization_percentage": 498
   },
   {
     "local": "Itu",
     "population": "166747",
-    "urbanization_percentage": "8626",
-    "ibge_code": "94"
+    "urbanization_percentage": 8626
   },
   {
     "local": "Itupeva",
     "population": "56285",
-    "urbanization_percentage": "4218",
-    "ibge_code": "92"
+    "urbanization_percentage": 4218
   },
   {
     "local": "Ituverava",
     "population": "39966",
-    "urbanization_percentage": "2339",
-    "ibge_code": "94"
+    "urbanization_percentage": 2339
   },
   {
     "local": "Jaborandi",
     "population": "6664",
-    "urbanization_percentage": "351",
-    "ibge_code": "94"
+    "urbanization_percentage": 351
   },
   {
     "local": "Jaboticabal",
     "population": "73766",
-    "urbanization_percentage": "1410",
-    "ibge_code": "98"
+    "urbanization_percentage": 1410
   },
   {
     "local": "Jacareí",
     "population": "224775",
-    "urbanization_percentage": "3104",
-    "ibge_code": "98"
+    "urbanization_percentage": 3104
   },
   {
     "local": "Jaci",
     "population": "6712",
-    "urbanization_percentage": "620",
-    "ibge_code": "90"
+    "urbanization_percentage": 620
   },
   {
     "local": "Jacupiranga",
     "population": "17195",
-    "urbanization_percentage": "7833",
-    "ibge_code": "54"
+    "urbanization_percentage": 7833
   },
   {
     "local": "Jaguariúna",
     "population": "53018",
-    "urbanization_percentage": "1006",
-    "ibge_code": "98"
+    "urbanization_percentage": 1006
   },
   {
     "local": "Jales",
     "population": "47220",
-    "urbanization_percentage": "2785",
-    "ibge_code": "94"
+    "urbanization_percentage": 2785
   },
   {
     "local": "Jambeiro",
     "population": "6064",
-    "urbanization_percentage": "3161",
-    "ibge_code": "47"
+    "urbanization_percentage": 3161
   },
   {
     "local": "Jandira",
     "population": "120523",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Jardinópolis",
     "population": "41916",
-    "urbanization_percentage": "929",
-    "ibge_code": "97"
+    "urbanization_percentage": 929
   },
   {
     "local": "Jarinu",
     "population": "28642",
-    "urbanization_percentage": "4386",
-    "ibge_code": "84"
+    "urbanization_percentage": 4386
   },
   {
     "local": "Jaú",
     "population": "144392",
-    "urbanization_percentage": "3687",
-    "ibge_code": "97"
+    "urbanization_percentage": 3687
   },
   {
     "local": "Jeriquara",
     "population": "3144",
-    "urbanization_percentage": "433",
-    "ibge_code": "86"
+    "urbanization_percentage": 433
   },
   {
     "local": "Joanópolis",
     "population": "12500",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "João Ramalho",
     "population": "4336",
-    "urbanization_percentage": "503",
-    "ibge_code": "88"
+    "urbanization_percentage": 503
   },
   {
     "local": "José Bonifácio",
     "population": "35348",
-    "urbanization_percentage": "2800",
-    "ibge_code": "92"
+    "urbanization_percentage": 2800
   },
   {
     "local": "Júlio Mesquita",
     "population": "4593",
-    "urbanization_percentage": "209",
-    "ibge_code": "95"
+    "urbanization_percentage": 209
   },
   {
     "local": "Jumirim",
     "population": "3211",
-    "urbanization_percentage": "1147",
-    "ibge_code": "64"
+    "urbanization_percentage": 1147
   },
   {
     "local": "Jundiaí",
     "population": "400549",
-    "urbanization_percentage": "12508",
-    "ibge_code": "96"
+    "urbanization_percentage": 12508
   },
   {
     "local": "Junqueirópolis",
     "population": "19798",
-    "urbanization_percentage": "3062",
-    "ibge_code": "84"
+    "urbanization_percentage": 3062
   },
   {
     "local": "Juquiá",
     "population": "18862",
-    "urbanization_percentage": "6615",
-    "ibge_code": "64"
+    "urbanization_percentage": 6615
   },
   {
     "local": "Juquitiba",
     "population": "30040",
-    "urbanization_percentage": "4691",
-    "ibge_code": "84"
+    "urbanization_percentage": 4691
   },
   {
     "local": "Lagoinha",
     "population": "4818",
-    "urbanization_percentage": "1454",
-    "ibge_code": "69"
+    "urbanization_percentage": 1454
   },
   {
     "local": "Laranjal Paulista",
     "population": "27327",
-    "urbanization_percentage": "2632",
-    "ibge_code": "90"
+    "urbanization_percentage": 2632
   },
   {
     "local": "Lavínia",
     "population": "8547",
-    "urbanization_percentage": "4375",
-    "ibge_code": "48"
+    "urbanization_percentage": 4375
   },
   {
     "local": "Lavrinhas",
     "population": "7051",
-    "urbanization_percentage": "445",
-    "ibge_code": "93"
+    "urbanization_percentage": 445
   },
   {
     "local": "Leme",
     "population": "99172",
-    "urbanization_percentage": "1794",
-    "ibge_code": "98"
+    "urbanization_percentage": 1794
   },
   {
     "local": "Lençóis Paulista",
     "population": "65399",
-    "urbanization_percentage": "1185",
-    "ibge_code": "98"
+    "urbanization_percentage": 1185
   },
   {
     "local": "Limeira",
     "population": "292497",
-    "urbanization_percentage": "7113",
-    "ibge_code": "97"
+    "urbanization_percentage": 7113
   },
   {
     "local": "Lindóia",
     "population": "7544",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Lins",
     "population": "74441",
-    "urbanization_percentage": "870",
-    "ibge_code": "98"
+    "urbanization_percentage": 870
   },
   {
     "local": "Lorena",
     "population": "85839",
-    "urbanization_percentage": "2151",
-    "ibge_code": "97"
+    "urbanization_percentage": 2151
   },
   {
     "local": "Lourdes",
     "population": "2174",
-    "urbanization_percentage": "326",
-    "ibge_code": "85"
+    "urbanization_percentage": 326
   },
   {
     "local": "Louveira",
     "population": "46225",
-    "urbanization_percentage": "1179",
-    "ibge_code": "97"
+    "urbanization_percentage": 1179
   },
   {
     "local": "Lucélia",
     "population": "20806",
-    "urbanization_percentage": "2646",
-    "ibge_code": "87"
+    "urbanization_percentage": 2646
   },
   {
     "local": "Lucianópolis",
     "population": "2256",
-    "urbanization_percentage": "428",
-    "ibge_code": "81"
+    "urbanization_percentage": 428
   },
   {
     "local": "Luís Antônio",
     "population": "13654",
-    "urbanization_percentage": "233",
-    "ibge_code": "98"
+    "urbanization_percentage": 233
   },
   {
     "local": "Luiziânia",
     "population": "5607",
-    "urbanization_percentage": "330",
-    "ibge_code": "94"
+    "urbanization_percentage": 330
   },
   {
     "local": "Lupércio",
     "population": "4407",
-    "urbanization_percentage": "241",
-    "ibge_code": "94"
+    "urbanization_percentage": 241
   },
   {
     "local": "Lutécia",
     "population": "2637",
-    "urbanization_percentage": "447",
-    "ibge_code": "83"
+    "urbanization_percentage": 447
   },
   {
     "local": "Macatuba",
     "population": "16801",
-    "urbanization_percentage": "388",
-    "ibge_code": "97"
+    "urbanization_percentage": 388
   },
   {
     "local": "Macaubal",
     "population": "7742",
-    "urbanization_percentage": "749",
-    "ibge_code": "90"
+    "urbanization_percentage": 749
   },
   {
     "local": "Macedônia",
     "population": "3591",
-    "urbanization_percentage": "759",
-    "ibge_code": "78"
+    "urbanization_percentage": 759
   },
   {
     "local": "Magda",
     "population": "3110",
-    "urbanization_percentage": "464",
-    "ibge_code": "85"
+    "urbanization_percentage": 464
   },
   {
     "local": "Mairinque",
     "population": "45732",
-    "urbanization_percentage": "9028",
-    "ibge_code": "80"
+    "urbanization_percentage": 9028
   },
   {
     "local": "Mairiporã",
     "population": "95122",
-    "urbanization_percentage": "8183",
-    "ibge_code": "91"
+    "urbanization_percentage": 8183
   },
   {
     "local": "Manduri",
     "population": "9426",
-    "urbanization_percentage": "817",
-    "ibge_code": "91"
+    "urbanization_percentage": 817
   },
   {
     "local": "Marabá Paulista",
     "population": "4905",
-    "urbanization_percentage": "2722",
-    "ibge_code": "44"
+    "urbanization_percentage": 2722
   },
   {
     "local": "Maracaí",
     "population": "13489",
-    "urbanization_percentage": "1056",
-    "ibge_code": "92"
+    "urbanization_percentage": 1056
   },
   {
     "local": "Marapoama",
     "population": "2856",
-    "urbanization_percentage": "309",
-    "ibge_code": "89"
+    "urbanization_percentage": 309
   },
   {
     "local": "Mariápolis",
     "population": "3964",
-    "urbanization_percentage": "606",
-    "ibge_code": "84"
+    "urbanization_percentage": 606
   },
   {
     "local": "Marília",
     "population": "228763",
-    "urbanization_percentage": "10263",
-    "ibge_code": "95"
+    "urbanization_percentage": 10263
   },
   {
     "local": "Marinópolis",
     "population": "2098",
-    "urbanization_percentage": "382",
-    "ibge_code": "81"
+    "urbanization_percentage": 382
   },
   {
     "local": "Martinópolis",
     "population": "25384",
-    "urbanization_percentage": "3458",
-    "ibge_code": "86"
+    "urbanization_percentage": 3458
   },
   {
     "local": "Matão",
     "population": "79453",
-    "urbanization_percentage": "1458",
-    "ibge_code": "98"
+    "urbanization_percentage": 1458
   },
   {
     "local": "Mauá",
     "population": "451947",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Mendonça",
     "population": "4971",
-    "urbanization_percentage": "690",
-    "ibge_code": "86"
+    "urbanization_percentage": 690
   },
   {
     "local": "Meridiano",
     "population": "3762",
-    "urbanization_percentage": "1059",
-    "ibge_code": "71"
+    "urbanization_percentage": 1059
   },
   {
     "local": "Mesópolis",
     "population": "1890",
-    "urbanization_percentage": "282",
-    "ibge_code": "85"
+    "urbanization_percentage": 282
   },
   {
     "local": "Miguelópolis",
     "population": "21242",
-    "urbanization_percentage": "1004",
-    "ibge_code": "95"
+    "urbanization_percentage": 1004
   },
   {
     "local": "Mineiros do Tietê",
     "population": "12487",
-    "urbanization_percentage": "558",
-    "ibge_code": "95"
+    "urbanization_percentage": 558
   },
   {
     "local": "Mira Estrela",
     "population": "2916",
-    "urbanization_percentage": "971",
-    "ibge_code": "66"
+    "urbanization_percentage": 971
   },
   {
     "local": "Miracatu",
     "population": "19971",
-    "urbanization_percentage": "9287",
-    "ibge_code": "53"
+    "urbanization_percentage": 9287
   },
   {
     "local": "Mirandópolis",
     "population": "28438",
-    "urbanization_percentage": "2586",
-    "ibge_code": "90"
+    "urbanization_percentage": 2586
   },
   {
     "local": "Mirante do Paranapanema",
     "population": "17634",
-    "urbanization_percentage": "7250",
-    "ibge_code": "58"
+    "urbanization_percentage": 7250
   },
   {
     "local": "Mirassol",
     "population": "57062",
-    "urbanization_percentage": "1442",
-    "ibge_code": "97"
+    "urbanization_percentage": 1442
   },
   {
     "local": "Mirassolândia",
     "population": "4621",
-    "urbanization_percentage": "864",
-    "ibge_code": "81"
+    "urbanization_percentage": 864
   },
   {
     "local": "Mococa",
     "population": "66655",
-    "urbanization_percentage": "3604",
-    "ibge_code": "94"
+    "urbanization_percentage": 3604
   },
   {
     "local": "Mogi das Cruzes",
     "population": "423912",
-    "urbanization_percentage": "31230",
-    "ibge_code": "92"
+    "urbanization_percentage": 31230
   },
   {
     "local": "Mogi Guaçu",
     "population": "146200",
-    "urbanization_percentage": "6191",
-    "ibge_code": "95"
+    "urbanization_percentage": 6191
   },
   {
     "local": "Mogi Mirim",
     "population": "89738",
-    "urbanization_percentage": "4127",
-    "ibge_code": "95"
+    "urbanization_percentage": 4127
   },
   {
     "local": "Mombuca",
     "population": "3320",
-    "urbanization_percentage": "418",
-    "ibge_code": "87"
+    "urbanization_percentage": 418
   },
   {
     "local": "Mongaguá",
     "population": "52970",
-    "urbanization_percentage": "231",
-    "ibge_code": "99"
+    "urbanization_percentage": 231
   },
   {
     "local": "Monte Alegre do Sul",
     "population": "7642",
-    "urbanization_percentage": "2958",
-    "ibge_code": "61"
+    "urbanization_percentage": 2958
   },
   {
     "local": "Monte Alto",
     "population": "48107",
-    "urbanization_percentage": "1610",
-    "ibge_code": "96"
+    "urbanization_percentage": 1610
   },
   {
     "local": "Monte Aprazível",
     "population": "23181",
-    "urbanization_percentage": "1711",
-    "ibge_code": "92"
+    "urbanization_percentage": 1711
   },
   {
     "local": "Monte Azul Paulista",
     "population": "18335",
-    "urbanization_percentage": "895",
-    "ibge_code": "95"
+    "urbanization_percentage": 895
   },
   {
     "local": "Monte Castelo",
     "population": "4001",
-    "urbanization_percentage": "690",
-    "ibge_code": "82"
+    "urbanization_percentage": 690
   },
   {
     "local": "Monte Mor",
     "population": "57423",
-    "urbanization_percentage": "2730",
-    "ibge_code": "95"
+    "urbanization_percentage": 2730
   },
   {
     "local": "Monteiro Lobato",
     "population": "4398",
-    "urbanization_percentage": "2456",
-    "ibge_code": "44"
+    "urbanization_percentage": 2456
   },
   {
     "local": "Monções",
     "population": "2169",
-    "urbanization_percentage": "281",
-    "ibge_code": "87"
+    "urbanization_percentage": 281
   },
   {
     "local": "Morro Agudo",
     "population": "31696",
-    "urbanization_percentage": "821",
-    "ibge_code": "97"
+    "urbanization_percentage": 821
   },
   {
     "local": "Morungaba",
     "population": "12958",
-    "urbanization_percentage": "1384",
-    "ibge_code": "89"
+    "urbanization_percentage": 1384
   },
   {
     "local": "Motuca",
     "population": "4569",
-    "urbanization_percentage": "980",
-    "ibge_code": "78"
+    "urbanization_percentage": 980
   },
   {
     "local": "Murutinga do Sul",
     "population": "4264",
-    "urbanization_percentage": "1643",
-    "ibge_code": "61"
+    "urbanization_percentage": 1643
   },
   {
     "local": "Nantes",
     "population": "3000",
-    "urbanization_percentage": "151",
-    "ibge_code": "94"
+    "urbanization_percentage": 151
   },
   {
     "local": "Narandiba",
     "population": "4727",
-    "urbanization_percentage": "958",
-    "ibge_code": "79"
+    "urbanization_percentage": 958
   },
   {
     "local": "Natividade da Serra",
     "population": "6690",
-    "urbanization_percentage": "3859",
-    "ibge_code": "42"
+    "urbanization_percentage": 3859
   },
   {
     "local": "Nazaré Paulista",
     "population": "18041",
-    "urbanization_percentage": "787",
-    "ibge_code": "95"
+    "urbanization_percentage": 787
   },
   {
     "local": "Neves Paulista",
     "population": "8659",
-    "urbanization_percentage": "715",
-    "ibge_code": "91"
+    "urbanization_percentage": 715
   },
   {
     "local": "Nhandeara",
     "population": "10787",
-    "urbanization_percentage": "1785",
-    "ibge_code": "83"
+    "urbanization_percentage": 1785
   },
   {
     "local": "Nipoã",
     "population": "4843",
-    "urbanization_percentage": "463",
-    "ibge_code": "90"
+    "urbanization_percentage": 463
   },
   {
     "local": "Nova Aliança",
     "population": "6342",
-    "urbanization_percentage": "849",
-    "ibge_code": "86"
+    "urbanization_percentage": 849
   },
   {
     "local": "Nova Campina",
     "population": "9425",
-    "urbanization_percentage": "2144",
-    "ibge_code": "77"
+    "urbanization_percentage": 2144
   },
   {
     "local": "Nova Canaã Paulista",
     "population": "1970",
-    "urbanization_percentage": "1010",
-    "ibge_code": "48"
+    "urbanization_percentage": 1010
   },
   {
     "local": "Nova Castilho",
     "population": "1167",
-    "urbanization_percentage": "263",
-    "ibge_code": "77"
+    "urbanization_percentage": 263
   },
   {
     "local": "Nova Europa",
     "population": "10463",
-    "urbanization_percentage": "565",
-    "ibge_code": "94"
+    "urbanization_percentage": 565
   },
   {
     "local": "Nova Granada",
     "population": "20578",
-    "urbanization_percentage": "1325",
-    "ibge_code": "93"
+    "urbanization_percentage": 1325
   },
   {
     "local": "Nova Guataporanga",
     "population": "2189",
-    "urbanization_percentage": "234",
-    "ibge_code": "89"
+    "urbanization_percentage": 234
   },
   {
     "local": "Nova Independência",
     "population": "3607",
-    "urbanization_percentage": "574",
-    "ibge_code": "84"
+    "urbanization_percentage": 574
   },
   {
     "local": "Nova Luzitânia",
     "population": "3936",
-    "urbanization_percentage": "279",
-    "ibge_code": "92"
+    "urbanization_percentage": 279
   },
   {
     "local": "Nova Odessa",
     "population": "56767",
-    "urbanization_percentage": "925",
-    "ibge_code": "98"
+    "urbanization_percentage": 925
   },
   {
     "local": "Novais",
     "population": "5339",
-    "urbanization_percentage": "373",
-    "ibge_code": "93"
+    "urbanization_percentage": 373
   },
   {
     "local": "Novo Horizonte",
     "population": "38504",
-    "urbanization_percentage": "93",
-    "ibge_code": "71"
+    "urbanization_percentage": 93
   },
   {
     "local": "Nuporanga",
     "population": "7183",
-    "urbanization_percentage": "382",
-    "ibge_code": "94"
+    "urbanization_percentage": 382
   },
   {
     "local": "Ocauçu",
     "population": "4148",
-    "urbanization_percentage": "609",
-    "ibge_code": "85"
+    "urbanization_percentage": 609
   },
   {
     "local": "Óleo",
     "population": "2550",
-    "urbanization_percentage": "744",
-    "ibge_code": "70"
+    "urbanization_percentage": 744
   },
   {
     "local": "Olímpia",
     "population": "52055",
-    "urbanization_percentage": "2434",
-    "ibge_code": "95"
+    "urbanization_percentage": 2434
   },
   {
     "local": "Onda Verde",
     "population": "4159",
-    "urbanization_percentage": "664",
-    "ibge_code": "84"
+    "urbanization_percentage": 664
   },
   {
     "local": "Oriente",
     "population": "6231",
-    "urbanization_percentage": "317",
-    "ibge_code": "94"
+    "urbanization_percentage": 317
   },
   {
     "local": "Orindiúva",
     "population": "6640",
-    "urbanization_percentage": "456",
-    "ibge_code": "93"
+    "urbanization_percentage": 456
   },
   {
     "local": "Orlândia",
     "population": "41801",
-    "urbanization_percentage": "1077",
-    "ibge_code": "97"
+    "urbanization_percentage": 1077
   },
   {
     "local": "Osasco",
     "population": "677750",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Oscar Bressane",
     "population": "2518",
-    "urbanization_percentage": "332",
-    "ibge_code": "86"
+    "urbanization_percentage": 332
   },
   {
     "local": "Osvaldo Cruz",
     "population": "31210",
-    "urbanization_percentage": "2804",
-    "ibge_code": "91"
+    "urbanization_percentage": 2804
   },
   {
     "local": "Ourinhos",
     "population": "109043",
-    "urbanization_percentage": "2816",
-    "ibge_code": "97"
+    "urbanization_percentage": 2816
   },
   {
     "local": "Ouro Verde",
     "population": "8174",
-    "urbanization_percentage": "508",
-    "ibge_code": "93"
+    "urbanization_percentage": 508
   },
   {
     "local": "Ouroeste",
     "population": "9515",
-    "urbanization_percentage": "678",
-    "ibge_code": "92"
+    "urbanization_percentage": 678
   },
   {
     "local": "Pacaembu",
     "population": "13090",
-    "urbanization_percentage": "3445",
-    "ibge_code": "73"
+    "urbanization_percentage": 3445
   },
   {
     "local": "Palestina",
     "population": "11962",
-    "urbanization_percentage": "1736",
-    "ibge_code": "85"
+    "urbanization_percentage": 1736
   },
   {
     "local": "Palmares Paulista",
     "population": "12594",
-    "urbanization_percentage": "363",
-    "ibge_code": "97"
+    "urbanization_percentage": 363
   },
   {
     "local": "Palmeira d'Oeste",
     "population": "9203",
-    "urbanization_percentage": "1806",
-    "ibge_code": "80"
+    "urbanization_percentage": 1806
   },
   {
     "local": "Palmital",
     "population": "21523",
-    "urbanization_percentage": "1230",
-    "ibge_code": "94"
+    "urbanization_percentage": 1230
   },
   {
     "local": "Panorama",
     "population": "15078",
-    "urbanization_percentage": "335",
-    "ibge_code": "97"
+    "urbanization_percentage": 335
   },
   {
     "local": "Paraguaçu Paulista",
     "population": "43812",
-    "urbanization_percentage": "4108",
-    "ibge_code": "90"
+    "urbanization_percentage": 4108
   },
   {
     "local": "Paraibuna",
     "population": "18060",
-    "urbanization_percentage": "12615",
-    "ibge_code": "30"
+    "urbanization_percentage": 12615
   },
   {
     "local": "Paraíso",
     "population": "6202",
-    "urbanization_percentage": "585",
-    "ibge_code": "90"
+    "urbanization_percentage": 585
   },
   {
     "local": "Paranapanema",
     "population": "19517",
-    "urbanization_percentage": "2885",
-    "ibge_code": "85"
+    "urbanization_percentage": 2885
   },
   {
     "local": "Paranapuã",
     "population": "3879",
-    "urbanization_percentage": "338",
-    "ibge_code": "91"
+    "urbanization_percentage": 338
   },
   {
     "local": "Parapuã",
     "population": "10569",
-    "urbanization_percentage": "1539",
-    "ibge_code": "85"
+    "urbanization_percentage": 1539
   },
   {
     "local": "Pardinho",
     "population": "6226",
-    "urbanization_percentage": "813",
-    "ibge_code": "86"
+    "urbanization_percentage": 813
   },
   {
     "local": "Pariquera-Açu",
     "population": "19094",
-    "urbanization_percentage": "5671",
-    "ibge_code": "70"
+    "urbanization_percentage": 5671
   },
   {
     "local": "Parisi",
     "population": "2052",
-    "urbanization_percentage": "345",
-    "ibge_code": "83"
+    "urbanization_percentage": 345
   },
   {
     "local": "Patrocínio Paulista",
     "population": "14174",
-    "urbanization_percentage": "2224",
-    "ibge_code": "84"
+    "urbanization_percentage": 2224
   },
   {
     "local": "Paulicéia",
     "population": "6988",
-    "urbanization_percentage": "830",
-    "ibge_code": "88"
+    "urbanization_percentage": 830
   },
   {
     "local": "Paulínia",
     "population": "100915",
-    "urbanization_percentage": "93",
-    "ibge_code": "99"
+    "urbanization_percentage": 93
   },
   {
     "local": "Paulistânia",
     "population": "1772",
-    "urbanization_percentage": "422",
-    "ibge_code": "76"
+    "urbanization_percentage": 422
   },
   {
     "local": "Paulo de Faria",
     "population": "8528",
-    "urbanization_percentage": "728",
-    "ibge_code": "91"
+    "urbanization_percentage": 728
   },
   {
     "local": "Pederneiras",
     "population": "44775",
-    "urbanization_percentage": "3134",
-    "ibge_code": "93"
+    "urbanization_percentage": 3134
   },
   {
     "local": "Pedra Bela",
     "population": "5930",
-    "urbanization_percentage": "4275",
-    "ibge_code": "27"
+    "urbanization_percentage": 4275
   },
   {
     "local": "Pedranópolis",
     "population": "2445",
-    "urbanization_percentage": "890",
-    "ibge_code": "63"
+    "urbanization_percentage": 890
   },
   {
     "local": "Pedregulho",
     "population": "16167",
-    "urbanization_percentage": "4111",
-    "ibge_code": "74"
+    "urbanization_percentage": 4111
   },
   {
     "local": "Pedreira",
     "population": "45618",
-    "urbanization_percentage": "383",
-    "ibge_code": "99"
+    "urbanization_percentage": 383
   },
   {
     "local": "Pedrinhas Paulista",
     "population": "2997",
-    "urbanization_percentage": "402",
-    "ibge_code": "86"
+    "urbanization_percentage": 402
   },
   {
     "local": "Pedro de Toledo",
     "population": "10814",
-    "urbanization_percentage": "3207",
-    "ibge_code": "70"
+    "urbanization_percentage": 3207
   },
   {
     "local": "Penápolis",
     "population": "60362",
-    "urbanization_percentage": "2004",
-    "ibge_code": "96"
+    "urbanization_percentage": 2004
   },
   {
     "local": "Pereira Barreto",
     "population": "25314",
-    "urbanization_percentage": "1638",
-    "ibge_code": "93"
+    "urbanization_percentage": 1638
   },
   {
     "local": "Pereiras",
     "population": "8240",
-    "urbanization_percentage": "2737",
-    "ibge_code": "66"
+    "urbanization_percentage": 2737
   },
   {
     "local": "Peruíbe",
     "population": "64892",
-    "urbanization_percentage": "445",
-    "ibge_code": "99"
+    "urbanization_percentage": 445
   },
   {
     "local": "Piacatu",
     "population": "5772",
-    "urbanization_percentage": "496",
-    "ibge_code": "91"
+    "urbanization_percentage": 496
   },
   {
     "local": "Piedade",
     "population": "53230",
-    "urbanization_percentage": "28304",
-    "ibge_code": "46"
+    "urbanization_percentage": 28304
   },
   {
     "local": "Pilar do Sul",
     "population": "27867",
-    "urbanization_percentage": "4910",
-    "ibge_code": "82"
+    "urbanization_percentage": 4910
   },
   {
     "local": "Pindamonhangaba",
     "population": "160506",
-    "urbanization_percentage": "4576",
-    "ibge_code": "97"
+    "urbanization_percentage": 4576
   },
   {
     "local": "Pindorama",
     "population": "16049",
-    "urbanization_percentage": "858",
-    "ibge_code": "94"
+    "urbanization_percentage": 858
   },
   {
     "local": "Pinhalzinho",
     "population": "14433",
-    "urbanization_percentage": "7197",
-    "ibge_code": "50"
+    "urbanization_percentage": 7197
   },
   {
     "local": "Piquerobi",
     "population": "3534",
-    "urbanization_percentage": "745",
-    "ibge_code": "78"
+    "urbanization_percentage": 745
   },
   {
     "local": "Piquete",
     "population": "13718",
-    "urbanization_percentage": "852",
-    "ibge_code": "93"
+    "urbanization_percentage": 852
   },
   {
     "local": "Piracaia",
     "population": "26048",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Piracicaba",
     "population": "385155",
-    "urbanization_percentage": "7126",
-    "ibge_code": "98"
+    "urbanization_percentage": 7126
   },
   {
     "local": "Piraju",
     "population": "28571",
-    "urbanization_percentage": "2364",
-    "ibge_code": "91"
+    "urbanization_percentage": 2364
   },
   {
     "local": "Pirajuí",
     "population": "23199",
-    "urbanization_percentage": "4197",
-    "ibge_code": "81"
+    "urbanization_percentage": 4197
   },
   {
     "local": "Pirangi",
     "population": "10792",
-    "urbanization_percentage": "911",
-    "ibge_code": "91"
+    "urbanization_percentage": 911
   },
   {
     "local": "Pirapora do Bom Jesus",
     "population": "18188",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Pirapozinho",
     "population": "26709",
-    "urbanization_percentage": "1132",
-    "ibge_code": "95"
+    "urbanization_percentage": 1132
   },
   {
     "local": "Pirassununga",
     "population": "73027",
-    "urbanization_percentage": "4884",
-    "ibge_code": "93"
+    "urbanization_percentage": 4884
   },
   {
     "local": "Piratininga",
     "population": "12987",
-    "urbanization_percentage": "1659",
-    "ibge_code": "87"
+    "urbanization_percentage": 1659
   },
   {
     "local": "Pitangueiras",
     "population": "37934",
-    "urbanization_percentage": "1037",
-    "ibge_code": "97"
+    "urbanization_percentage": 1037
   },
   {
     "local": "Planalto",
     "population": "5031",
-    "urbanization_percentage": "601",
-    "ibge_code": "88"
+    "urbanization_percentage": 601
   },
   {
     "local": "Platina",
     "population": "3439",
-    "urbanization_percentage": "621",
-    "ibge_code": "81"
+    "urbanization_percentage": 621
   },
   {
     "local": "Poá",
     "population": "113719",
-    "urbanization_percentage": "1797",
-    "ibge_code": "98"
+    "urbanization_percentage": 1797
   },
   {
     "local": "Poloni",
     "population": "5615",
-    "urbanization_percentage": "617",
-    "ibge_code": "89"
+    "urbanization_percentage": 617
   },
   {
     "local": "Pompéia",
     "population": "21027",
-    "urbanization_percentage": "1338",
-    "ibge_code": "93"
+    "urbanization_percentage": 1338
   },
   {
     "local": "Pongaí",
     "population": "3368",
-    "urbanization_percentage": "426",
-    "ibge_code": "87"
+    "urbanization_percentage": 426
   },
   {
     "local": "Pontal",
     "population": "47661",
-    "urbanization_percentage": "541",
-    "ibge_code": "98"
+    "urbanization_percentage": 541
   },
   {
     "local": "Pontalinda",
     "population": "4409",
-    "urbanization_percentage": "581",
-    "ibge_code": "86"
+    "urbanization_percentage": 581
   },
   {
     "local": "Pontes Gestal",
     "population": "2524",
-    "urbanization_percentage": "297",
-    "ibge_code": "88"
+    "urbanization_percentage": 297
   },
   {
     "local": "Populina",
     "population": "4037",
-    "urbanization_percentage": "674",
-    "ibge_code": "83"
+    "urbanization_percentage": 674
   },
   {
     "local": "Porangaba",
     "population": "9122",
-    "urbanization_percentage": "4718",
-    "ibge_code": "48"
+    "urbanization_percentage": 4718
   },
   {
     "local": "Porto Feliz",
     "population": "51149",
-    "urbanization_percentage": "6896",
-    "ibge_code": "86"
+    "urbanization_percentage": 6896
   },
   {
     "local": "Porto Ferreira",
     "population": "53607",
-    "urbanization_percentage": "962",
-    "ibge_code": "98"
+    "urbanization_percentage": 962
   },
   {
     "local": "Potim",
     "population": "20434",
-    "urbanization_percentage": "4939",
-    "ibge_code": "75"
+    "urbanization_percentage": 4939
   },
   {
     "local": "Potirendaba",
     "population": "16398",
-    "urbanization_percentage": "1361",
-    "ibge_code": "91"
+    "urbanization_percentage": 1361
   },
   {
     "local": "Pracinha",
     "population": "2899",
-    "urbanization_percentage": "1510",
-    "ibge_code": "47"
+    "urbanization_percentage": 1510
   },
   {
     "local": "Pradópolis",
     "population": "20248",
-    "urbanization_percentage": "1386",
-    "ibge_code": "93"
+    "urbanization_percentage": 1386
   },
   {
     "local": "Praia Grande",
     "population": "306207",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Pratânia",
     "population": "5040",
-    "urbanization_percentage": "985",
-    "ibge_code": "80"
+    "urbanization_percentage": 985
   },
   {
     "local": "Presidente Alves",
     "population": "4036",
-    "urbanization_percentage": "519",
-    "ibge_code": "87"
+    "urbanization_percentage": 519
   },
   {
     "local": "Presidente Bernardes",
     "population": "13700",
-    "urbanization_percentage": "2390",
-    "ibge_code": "82"
+    "urbanization_percentage": 2390
   },
   {
     "local": "Presidente Epitácio",
     "population": "42174",
-    "urbanization_percentage": "2601",
-    "ibge_code": "93"
+    "urbanization_percentage": 2601
   },
   {
     "local": "Presidente Prudente",
     "population": "218544",
-    "urbanization_percentage": "4458",
-    "ibge_code": "97"
+    "urbanization_percentage": 4458
   },
   {
     "local": "Presidente Venceslau",
     "population": "38000",
-    "urbanization_percentage": "1201",
-    "ibge_code": "96"
+    "urbanization_percentage": 1201
   },
   {
     "local": "Promissão",
     "population": "38873",
-    "urbanization_percentage": "5576",
-    "ibge_code": "85"
+    "urbanization_percentage": 5576
   },
   {
     "local": "Quadra",
     "population": "3616",
-    "urbanization_percentage": "2682",
-    "ibge_code": "25"
+    "urbanization_percentage": 2682
   },
   {
     "local": "Quatá",
     "population": "13710",
-    "urbanization_percentage": "708",
-    "ibge_code": "94"
+    "urbanization_percentage": 708
   },
   {
     "local": "Queiroz",
     "population": "3183",
-    "urbanization_percentage": "345",
-    "ibge_code": "89"
+    "urbanization_percentage": 345
   },
   {
     "local": "Queluz",
     "population": "12404",
-    "urbanization_percentage": "2231",
-    "ibge_code": "82"
+    "urbanization_percentage": 2231
   },
   {
     "local": "Quintana",
     "population": "6403",
-    "urbanization_percentage": "495",
-    "ibge_code": "92"
+    "urbanization_percentage": 495
   },
   {
     "local": "Rafard",
     "population": "8893",
-    "urbanization_percentage": "911",
-    "ibge_code": "89"
+    "urbanization_percentage": 911
   },
   {
     "local": "Rancharia",
     "population": "28828",
-    "urbanization_percentage": "2469",
-    "ibge_code": "91"
+    "urbanization_percentage": 2469
   },
   {
     "local": "Redenção da Serra",
     "population": "3841",
-    "urbanization_percentage": "1170",
-    "ibge_code": "69"
+    "urbanization_percentage": 1170
   },
   {
     "local": "Regente Feijó",
     "population": "19298",
-    "urbanization_percentage": "1235",
-    "ibge_code": "93"
+    "urbanization_percentage": 1235
   },
   {
     "local": "Reginópolis",
     "population": "7232",
-    "urbanization_percentage": "2924",
-    "ibge_code": "59"
+    "urbanization_percentage": 2924
   },
   {
     "local": "Registro",
     "population": "54133",
-    "urbanization_percentage": "88",
-    "ibge_code": "77"
+    "urbanization_percentage": 88
   },
   {
     "local": "Restinga",
     "population": "7309",
-    "urbanization_percentage": "1336",
-    "ibge_code": "81"
+    "urbanization_percentage": 1336
   },
   {
     "local": "Ribeira",
     "population": "3257",
-    "urbanization_percentage": "1827",
-    "ibge_code": "43"
+    "urbanization_percentage": 1827
   },
   {
     "local": "Ribeirão Bonito",
     "population": "12791",
-    "urbanization_percentage": "729",
-    "ibge_code": "94"
+    "urbanization_percentage": 729
   },
   {
     "local": "Ribeirão Branco",
     "population": "17710",
-    "urbanization_percentage": "7496",
-    "ibge_code": "57"
+    "urbanization_percentage": 7496
   },
   {
     "local": "Ribeirão Corrente",
     "population": "4587",
-    "urbanization_percentage": "819",
-    "ibge_code": "82"
+    "urbanization_percentage": 819
   },
   {
     "local": "Ribeirão do Sul",
     "population": "4371",
-    "urbanization_percentage": "849",
-    "ibge_code": "80"
+    "urbanization_percentage": 849
   },
   {
     "local": "Ribeirão dos Índios",
     "population": "2148",
-    "urbanization_percentage": "260",
-    "ibge_code": "87"
+    "urbanization_percentage": 260
   },
   {
     "local": "Ribeirão Grande",
     "population": "7493",
-    "urbanization_percentage": "5119",
-    "ibge_code": "31"
+    "urbanization_percentage": 5119
   },
   {
     "local": "Ribeirão Pires",
     "population": "117917",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Ribeirão Preto",
     "population": "669180",
-    "urbanization_percentage": "1899",
-    "ibge_code": "99"
+    "urbanization_percentage": 1899
   },
   {
     "local": "Rifaina",
     "population": "3460",
-    "urbanization_percentage": "397",
-    "ibge_code": "88"
+    "urbanization_percentage": 397
   },
   {
     "local": "Rincão",
     "population": "10476",
-    "urbanization_percentage": "1862",
-    "ibge_code": "82"
+    "urbanization_percentage": 1862
   },
   {
     "local": "Rinópolis",
     "population": "9757",
-    "urbanization_percentage": "880",
-    "ibge_code": "90"
+    "urbanization_percentage": 880
   },
   {
     "local": "Rio Claro",
     "population": "198330",
-    "urbanization_percentage": "4413",
-    "ibge_code": "97"
+    "urbanization_percentage": 4413
   },
   {
     "local": "Rio das Pedras",
     "population": "33493",
-    "urbanization_percentage": "761",
-    "ibge_code": "97"
+    "urbanization_percentage": 761
   },
   {
     "local": "Rio Grande da Serra",
     "population": "48648",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Riolândia",
     "population": "11256",
-    "urbanization_percentage": "2351",
-    "ibge_code": "79"
+    "urbanization_percentage": 2351
   },
   {
     "local": "Riversul",
     "population": "5779",
-    "urbanization_percentage": "1446",
-    "ibge_code": "74"
+    "urbanization_percentage": 1446
   },
   {
     "local": "Rosana",
     "population": "18588",
-    "urbanization_percentage": "869",
-    "ibge_code": "95"
+    "urbanization_percentage": 869
   },
   {
     "local": "Roseira",
     "population": "10439",
-    "urbanization_percentage": "436",
-    "ibge_code": "95"
+    "urbanization_percentage": 436
   },
   {
     "local": "Rubiácea",
     "population": "3034",
-    "urbanization_percentage": "1224",
-    "ibge_code": "59"
+    "urbanization_percentage": 1224
   },
   {
     "local": "Rubinéia",
     "population": "2967",
-    "urbanization_percentage": "390",
-    "ibge_code": "86"
+    "urbanization_percentage": 390
   },
   {
     "local": "Sabino",
     "population": "5422",
-    "urbanization_percentage": "506",
-    "ibge_code": "90"
+    "urbanization_percentage": 506
   },
   {
     "local": "Sagres",
     "population": "2363",
-    "urbanization_percentage": "407",
-    "ibge_code": "82"
+    "urbanization_percentage": 407
   },
   {
     "local": "Sales",
     "population": "5942",
-    "urbanization_percentage": "430",
-    "ibge_code": "92"
+    "urbanization_percentage": 430
   },
   {
     "local": "Sales Oliveira",
     "population": "11342",
-    "urbanization_percentage": "722",
-    "ibge_code": "93"
+    "urbanization_percentage": 722
   },
   {
     "local": "Salesópolis",
     "population": "16590",
-    "urbanization_percentage": "5670",
-    "ibge_code": "65"
+    "urbanization_percentage": 5670
   },
   {
     "local": "Salmourão",
     "population": "5053",
-    "urbanization_percentage": "328",
-    "ibge_code": "93"
+    "urbanization_percentage": 328
   },
   {
     "local": "Saltinho",
     "population": "7721",
-    "urbanization_percentage": "1250",
-    "ibge_code": "83"
+    "urbanization_percentage": 1250
   },
   {
     "local": "Salto",
     "population": "113416",
-    "urbanization_percentage": "798",
-    "ibge_code": "99"
+    "urbanization_percentage": 798
   },
   {
     "local": "Salto de Pirapora",
     "population": "43433",
-    "urbanization_percentage": "9272",
-    "ibge_code": "78"
+    "urbanization_percentage": 9272
   },
   {
     "local": "Salto Grande",
     "population": "9029",
-    "urbanization_percentage": "738",
-    "ibge_code": "91"
+    "urbanization_percentage": 738
   },
   {
     "local": "Sandovalina",
     "population": "4108",
-    "urbanization_percentage": "893",
-    "ibge_code": "78"
+    "urbanization_percentage": 893
   },
   {
     "local": "Santa Adélia",
     "population": "14787",
-    "urbanization_percentage": "797",
-    "ibge_code": "94"
+    "urbanization_percentage": 797
   },
   {
     "local": "Santa Albertina",
     "population": "5685",
-    "urbanization_percentage": "650",
-    "ibge_code": "88"
+    "urbanization_percentage": 650
   },
   {
     "local": "Santa Bárbara d'Oeste",
     "population": "187109",
-    "urbanization_percentage": "1469",
-    "ibge_code": "99"
+    "urbanization_percentage": 1469
   },
   {
     "local": "Santa Branca",
     "population": "14099",
-    "urbanization_percentage": "1663",
-    "ibge_code": "88"
+    "urbanization_percentage": 1663
   },
   {
     "local": "Santa Clara d'Oeste",
     "population": "2024",
-    "urbanization_percentage": "414",
-    "ibge_code": "79"
+    "urbanization_percentage": 414
   },
   {
     "local": "Santa Cruz da Conceição",
     "population": "4280",
-    "urbanization_percentage": "1015",
-    "ibge_code": "76"
+    "urbanization_percentage": 1015
   },
   {
     "local": "Santa Cruz da Esperança",
     "population": "2054",
-    "urbanization_percentage": "645",
-    "ibge_code": "68"
+    "urbanization_percentage": 645
   },
   {
     "local": "Santa Cruz das Palmeiras",
     "population": "32987",
-    "urbanization_percentage": "753",
-    "ibge_code": "97"
+    "urbanization_percentage": 753
   },
   {
     "local": "Santa Cruz do Rio Pardo",
     "population": "45671",
-    "urbanization_percentage": "2961",
-    "ibge_code": "93"
+    "urbanization_percentage": 2961
   },
   {
     "local": "Santa Ernestina",
     "population": "5532",
-    "urbanization_percentage": "230",
-    "ibge_code": "95"
+    "urbanization_percentage": 230
   },
   {
     "local": "Santa Fé do Sul",
     "population": "30503",
-    "urbanization_percentage": "1201",
-    "ibge_code": "96"
+    "urbanization_percentage": 1201
   },
   {
     "local": "Santa Gertrudes",
     "population": "25266",
-    "urbanization_percentage": "269",
-    "ibge_code": "98"
+    "urbanization_percentage": 269
   },
   {
     "local": "Santa Isabel",
     "population": "54191",
-    "urbanization_percentage": "10482",
-    "ibge_code": "80"
+    "urbanization_percentage": 10482
   },
   {
     "local": "Santa Lúcia",
     "population": "8503",
-    "urbanization_percentage": "373",
-    "ibge_code": "95"
+    "urbanization_percentage": 373
   },
   {
     "local": "Santa Maria da Serra",
     "population": "5992",
-    "urbanization_percentage": "574",
-    "ibge_code": "90"
+    "urbanization_percentage": 574
   },
   {
     "local": "Santa Mercedes",
     "population": "2814",
-    "urbanization_percentage": "262",
-    "ibge_code": "90"
+    "urbanization_percentage": 262
   },
   {
     "local": "Santa Rita d'Oeste",
     "population": "2432",
-    "urbanization_percentage": "553",
-    "ibge_code": "77"
+    "urbanization_percentage": 553
   },
   {
     "local": "Santa Rita do Passa Quatro",
     "population": "26408",
-    "urbanization_percentage": "2235",
-    "ibge_code": "91"
+    "urbanization_percentage": 2235
   },
   {
     "local": "Santa Rosa de Viterbo",
     "population": "25264",
-    "urbanization_percentage": "996",
-    "ibge_code": "96"
+    "urbanization_percentage": 996
   },
   {
     "local": "Santa Salete",
     "population": "1443",
-    "urbanization_percentage": "448",
-    "ibge_code": "68"
+    "urbanization_percentage": 448
   },
   {
     "local": "Santana da Ponte Pensa",
     "population": "1532",
-    "urbanization_percentage": "419",
-    "ibge_code": "72"
+    "urbanization_percentage": 419
   },
   {
     "local": "Santana de Parnaíba",
     "population": "132317",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Santo Anastácio",
     "population": "20179",
-    "urbanization_percentage": "1193",
-    "ibge_code": "94"
+    "urbanization_percentage": 1193
   },
   {
     "local": "Santo André",
     "population": "690551",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Santo Antônio da Alegria",
     "population": "6572",
-    "urbanization_percentage": "1638",
-    "ibge_code": "75"
+    "urbanization_percentage": 1638
   },
   {
     "local": "Santo Antônio de Posse",
     "population": "22424",
-    "urbanization_percentage": "1119",
-    "ibge_code": "95"
+    "urbanization_percentage": 1119
   },
   {
     "local": "Santo Antônio do Aracanguá",
     "population": "8135",
-    "urbanization_percentage": "1177",
-    "ibge_code": "85"
+    "urbanization_percentage": 1177
   },
   {
     "local": "Santo Antônio do Jardim",
     "population": "5842",
-    "urbanization_percentage": "2092",
-    "ibge_code": "64"
+    "urbanization_percentage": 2092
   },
   {
     "local": "Santo Antônio do Pinhal",
     "population": "6596",
-    "urbanization_percentage": "2116",
-    "ibge_code": "67"
+    "urbanization_percentage": 2116
   },
   {
     "local": "Santo Expedito",
     "population": "2939",
-    "urbanization_percentage": "217",
-    "ibge_code": "92"
+    "urbanization_percentage": 217
   },
   {
     "local": "Santópolis do Aguapeí",
     "population": "4593",
-    "urbanization_percentage": "117",
-    "ibge_code": "97"
+    "urbanization_percentage": 117
   },
   {
     "local": "Santos",
     "population": "426646",
-    "urbanization_percentage": "319",
-    "ibge_code": "99"
+    "urbanization_percentage": 319
   },
   {
     "local": "São Bento do Sapucaí",
     "population": "10510",
-    "urbanization_percentage": "5158",
-    "ibge_code": "50"
+    "urbanization_percentage": 5158
   },
   {
     "local": "São Bernardo do Campo",
     "population": "803771",
-    "urbanization_percentage": "13026",
-    "ibge_code": "98"
+    "urbanization_percentage": 13026
   },
   {
     "local": "São Caetano do Sul",
     "population": "150988",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "São Carlos",
     "population": "238834",
-    "urbanization_percentage": "9565",
-    "ibge_code": "96"
+    "urbanization_percentage": 9565
   },
   {
     "local": "São Francisco",
     "population": "2700",
-    "urbanization_percentage": "505",
-    "ibge_code": "81"
+    "urbanization_percentage": 505
   },
   {
     "local": "São João da Boa Vista",
     "population": "86679",
-    "urbanization_percentage": "2436",
-    "ibge_code": "97"
+    "urbanization_percentage": 2436
   },
   {
     "local": "São João das Duas Pontes",
     "population": "2492",
-    "urbanization_percentage": "575",
-    "ibge_code": "76"
+    "urbanization_percentage": 575
   },
   {
     "local": "São João de Iracema",
     "population": "1838",
-    "urbanization_percentage": "220",
-    "ibge_code": "88"
+    "urbanization_percentage": 220
   },
   {
     "local": "São João do Pau d'Alho",
     "population": "2005",
-    "urbanization_percentage": "291",
-    "ibge_code": "85"
+    "urbanization_percentage": 291
   },
   {
     "local": "São Joaquim da Barra",
     "population": "49569",
-    "urbanization_percentage": "877",
-    "ibge_code": "98"
+    "urbanization_percentage": 877
   },
   {
     "local": "São José da Bela Vista",
     "population": "8658",
-    "urbanization_percentage": "794",
-    "ibge_code": "90"
+    "urbanization_percentage": 794
   },
   {
     "local": "São José do Barreiro",
     "population": "4069",
-    "urbanization_percentage": "916",
-    "ibge_code": "77"
+    "urbanization_percentage": 916
   },
   {
     "local": "São José do Rio Pardo",
     "population": "52960",
-    "urbanization_percentage": "4467",
-    "ibge_code": "91"
+    "urbanization_percentage": 4467
   },
   {
     "local": "São José do Rio Preto",
     "population": "440796",
-    "urbanization_percentage": "26742",
-    "ibge_code": "93"
+    "urbanization_percentage": 26742
   },
   {
     "local": "São José dos Campos",
     "population": "695163",
-    "urbanization_percentage": "14142",
-    "ibge_code": "97"
+    "urbanization_percentage": 14142
   },
   {
     "local": "São Lourenço da Serra",
     "population": "15246",
-    "urbanization_percentage": "1113",
-    "ibge_code": "92"
+    "urbanization_percentage": 1113
   },
   {
     "local": "São Luiz do Paraitinga",
     "population": "10531",
-    "urbanization_percentage": "4228",
-    "ibge_code": "59"
+    "urbanization_percentage": 4228
   },
   {
     "local": "São Manuel",
     "population": "39326",
-    "urbanization_percentage": "573",
-    "ibge_code": "98"
+    "urbanization_percentage": 573
   },
   {
     "local": "São Miguel Arcanjo",
     "population": "31872",
-    "urbanization_percentage": "7881",
-    "ibge_code": "75"
+    "urbanization_percentage": 7881
   },
   {
     "local": "São Paulo",
     "population": "11753659",
-    "urbanization_percentage": "105655",
-    "ibge_code": "99"
+    "urbanization_percentage": 105655
   },
   {
     "local": "São Pedro",
     "population": "33725",
-    "urbanization_percentage": "4562",
-    "ibge_code": "86"
+    "urbanization_percentage": 4562
   },
   {
     "local": "São Pedro do Turvo",
     "population": "7329",
-    "urbanization_percentage": "1706",
-    "ibge_code": "76"
+    "urbanization_percentage": 1706
   },
   {
     "local": "São Roque",
     "population": "85844",
-    "urbanization_percentage": "3423",
-    "ibge_code": "96"
+    "urbanization_percentage": 3423
   },
   {
     "local": "São Sebastião",
     "population": "84569",
-    "urbanization_percentage": "953",
-    "ibge_code": "98"
+    "urbanization_percentage": 953
   },
   {
     "local": "São Sebastião da Grama",
     "population": "11952",
-    "urbanization_percentage": "3572",
-    "ibge_code": "70"
+    "urbanization_percentage": 3572
   },
   {
     "local": "São Simão",
     "population": "14742",
-    "urbanization_percentage": "1189",
-    "ibge_code": "91"
+    "urbanization_percentage": 1189
   },
   {
     "local": "São Vicente",
     "population": "352794",
-    "urbanization_percentage": "666",
-    "ibge_code": "99"
+    "urbanization_percentage": 666
   },
   {
     "local": "Sarapuí",
     "population": "9890",
-    "urbanization_percentage": "2059",
-    "ibge_code": "79"
+    "urbanization_percentage": 2059
   },
   {
     "local": "Sarutaiá",
     "population": "3639",
-    "urbanization_percentage": "527",
-    "ibge_code": "85"
+    "urbanization_percentage": 527
   },
   {
     "local": "Sebastianópolis do Sul",
     "population": "3250",
-    "urbanization_percentage": "517",
-    "ibge_code": "84"
+    "urbanization_percentage": 517
   },
   {
     "local": "Serra Azul",
     "population": "12070",
-    "urbanization_percentage": "3473",
-    "ibge_code": "71"
+    "urbanization_percentage": 3473
   },
   {
     "local": "Serra Negra",
     "population": "27255",
-    "urbanization_percentage": "3537",
-    "ibge_code": "87"
+    "urbanization_percentage": 3537
   },
   {
     "local": "Serrana",
     "population": "43352",
-    "urbanization_percentage": "273",
-    "ibge_code": "99"
+    "urbanization_percentage": 273
   },
   {
     "local": "Sertãozinho",
     "population": "120116",
-    "urbanization_percentage": "656",
-    "ibge_code": "99"
+    "urbanization_percentage": 656
   },
   {
     "local": "Sete Barras",
     "population": "12654",
-    "urbanization_percentage": "3846",
-    "ibge_code": "69"
+    "urbanization_percentage": 3846
   },
   {
     "local": "Severínia",
     "population": "16806",
-    "urbanization_percentage": "590",
-    "ibge_code": "96"
+    "urbanization_percentage": 590
   },
   {
     "local": "Silveiras",
     "population": "6121",
-    "urbanization_percentage": "2876",
-    "ibge_code": "53"
+    "urbanization_percentage": 2876
   },
   {
     "local": "Socorro",
     "population": "38407",
-    "urbanization_percentage": "11182",
-    "ibge_code": "70"
+    "urbanization_percentage": 11182
   },
   {
     "local": "Sorocaba",
     "population": "644397",
-    "urbanization_percentage": "6558",
-    "ibge_code": "98"
+    "urbanization_percentage": 6558
   },
   {
     "local": "Sud Mennucci",
     "population": "7664",
-    "urbanization_percentage": "1065",
-    "ibge_code": "86"
+    "urbanization_percentage": 1065
   },
   {
     "local": "Sumaré",
     "population": "275147",
-    "urbanization_percentage": "3239",
-    "ibge_code": "98"
+    "urbanization_percentage": 3239
   },
   {
     "local": "Suzanápolis",
     "population": "3842",
-    "urbanization_percentage": "1278",
-    "ibge_code": "66"
+    "urbanization_percentage": 1278
   },
   {
     "local": "Suzano",
     "population": "285257",
-    "urbanization_percentage": "10042",
-    "ibge_code": "96"
+    "urbanization_percentage": 10042
   },
   {
     "local": "Tabapuã",
     "population": "11803",
-    "urbanization_percentage": "753",
-    "ibge_code": "93"
+    "urbanization_percentage": 753
   },
   {
     "local": "Tabatinga",
     "population": "15658",
-    "urbanization_percentage": "1633",
-    "ibge_code": "89"
+    "urbanization_percentage": 1633
   },
   {
     "local": "Taboão da Serra",
     "population": "275988",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Taciba",
     "population": "5987",
-    "urbanization_percentage": "758",
-    "ibge_code": "87"
+    "urbanization_percentage": 758
   },
   {
     "local": "Taguaí",
     "population": "12834",
-    "urbanization_percentage": "3640",
-    "ibge_code": "71"
+    "urbanization_percentage": 3640
   },
   {
     "local": "Taiaçu",
     "population": "6009",
-    "urbanization_percentage": "432",
-    "ibge_code": "92"
+    "urbanization_percentage": 432
   },
   {
     "local": "Taiúva",
     "population": "6302",
-    "urbanization_percentage": "412",
-    "ibge_code": "93"
+    "urbanization_percentage": 412
   },
   {
     "local": "Tambaú",
     "population": "22712",
-    "urbanization_percentage": "2062",
-    "ibge_code": "90"
+    "urbanization_percentage": 2062
   },
   {
     "local": "Tanabi",
     "population": "24926",
-    "urbanization_percentage": "1786",
-    "ibge_code": "92"
+    "urbanization_percentage": 1786
   },
   {
     "local": "Tapiraí",
     "population": "7732",
-    "urbanization_percentage": "1977",
-    "ibge_code": "74"
+    "urbanization_percentage": 1977
   },
   {
     "local": "Tapiratiba",
     "population": "12627",
-    "urbanization_percentage": "1458",
-    "ibge_code": "88"
+    "urbanization_percentage": 1458
   },
   {
     "local": "Taquaral",
     "population": "2743",
-    "urbanization_percentage": "95",
-    "ibge_code": "96"
+    "urbanization_percentage": 95
   },
   {
     "local": "Taquaritinga",
     "population": "54381",
-    "urbanization_percentage": "2175",
-    "ibge_code": "96"
+    "urbanization_percentage": 2175
   },
   {
     "local": "Taquarituba",
     "population": "23029",
-    "urbanization_percentage": "2175",
-    "ibge_code": "90"
+    "urbanization_percentage": 2175
   },
   {
     "local": "Taquarivaí",
     "population": "5622",
-    "urbanization_percentage": "2396",
-    "ibge_code": "57"
+    "urbanization_percentage": 2396
   },
   {
     "local": "Tarabai",
     "population": "7135",
-    "urbanization_percentage": "446",
-    "ibge_code": "93"
+    "urbanization_percentage": 446
   },
   {
     "local": "Tarumã",
     "population": "14428",
-    "urbanization_percentage": "711",
-    "ibge_code": "95"
+    "urbanization_percentage": 711
   },
   {
     "local": "Tatuí",
     "population": "117558",
-    "urbanization_percentage": "3680",
-    "ibge_code": "96"
+    "urbanization_percentage": 3680
   },
   {
     "local": "Taubaté",
     "population": "301856",
-    "urbanization_percentage": "6164",
-    "ibge_code": "97"
+    "urbanization_percentage": 6164
   },
   {
     "local": "Tejupá",
     "population": "4707",
-    "urbanization_percentage": "1205",
-    "ibge_code": "74"
+    "urbanization_percentage": 1205
   },
   {
     "local": "Teodoro Sampaio",
     "population": "22219",
-    "urbanization_percentage": "3911",
-    "ibge_code": "82"
+    "urbanization_percentage": 3911
   },
   {
     "local": "Terra Roxa",
     "population": "8999",
-    "urbanization_percentage": "349",
-    "ibge_code": "96"
+    "urbanization_percentage": 349
   },
   {
     "local": "Tietê",
     "population": "40244",
-    "urbanization_percentage": "3509",
-    "ibge_code": "91"
+    "urbanization_percentage": 3509
   },
   {
     "local": "Timburi",
     "population": "2572",
-    "urbanization_percentage": "590",
-    "ibge_code": "77"
+    "urbanization_percentage": 590
   },
   {
     "local": "Torre de Pedra",
     "population": "2307",
-    "urbanization_percentage": "692",
-    "ibge_code": "70"
+    "urbanization_percentage": 692
   },
   {
     "local": "Torrinha",
     "population": "9635",
-    "urbanization_percentage": "1261",
-    "ibge_code": "86"
+    "urbanization_percentage": 1261
   },
   {
     "local": "Trabiju",
     "population": "1670",
-    "urbanization_percentage": "111",
-    "ibge_code": "93"
+    "urbanization_percentage": 111
   },
   {
     "local": "Tremembé",
     "population": "45066",
-    "urbanization_percentage": "3366",
-    "ibge_code": "92"
+    "urbanization_percentage": 3366
   },
   {
     "local": "Três Fronteiras",
     "population": "5525",
-    "urbanization_percentage": "671",
-    "ibge_code": "87"
+    "urbanization_percentage": 671
   },
   {
     "local": "Tuiuti",
     "population": "6439",
-    "urbanization_percentage": "2997",
-    "ibge_code": "53"
+    "urbanization_percentage": 2997
   },
   {
     "local": "Tupã",
     "population": "62950",
-    "urbanization_percentage": "2525",
-    "ibge_code": "95"
+    "urbanization_percentage": 2525
   },
   {
     "local": "Tupi Paulista",
     "population": "14829",
-    "urbanization_percentage": "3183",
-    "ibge_code": "78"
+    "urbanization_percentage": 3183
   },
   {
     "local": "Turiúba",
     "population": "1917",
-    "urbanization_percentage": "305",
-    "ibge_code": "84"
+    "urbanization_percentage": 305
   },
   {
     "local": "Turmalina",
     "population": "1836",
-    "urbanization_percentage": "457",
-    "ibge_code": "75"
+    "urbanization_percentage": 457
   },
   {
     "local": "Ubarana",
     "population": "5914",
-    "urbanization_percentage": "455",
-    "ibge_code": "92"
+    "urbanization_percentage": 455
   },
   {
     "local": "Ubatuba",
     "population": "86870",
-    "urbanization_percentage": "2037",
-    "ibge_code": "97"
+    "urbanization_percentage": 2037
   },
   {
     "local": "Ubirajara",
     "population": "4616",
-    "urbanization_percentage": "1219",
-    "ibge_code": "73"
+    "urbanization_percentage": 1219
   },
   {
     "local": "Uchoa",
     "population": "9645",
-    "urbanization_percentage": "606",
-    "ibge_code": "93"
+    "urbanization_percentage": 606
   },
   {
     "local": "União Paulista",
     "population": "1712",
-    "urbanization_percentage": "347",
-    "ibge_code": "79"
+    "urbanization_percentage": 347
   },
   {
     "local": "Urânia",
     "population": "8660",
-    "urbanization_percentage": "1158",
-    "ibge_code": "86"
+    "urbanization_percentage": 1158
   },
   {
     "local": "Uru",
     "population": "1213",
-    "urbanization_percentage": "87",
-    "ibge_code": "92"
+    "urbanization_percentage": 87
   },
   {
     "local": "Urupês",
     "population": "13081",
-    "urbanization_percentage": "1119",
-    "ibge_code": "91"
+    "urbanization_percentage": 1119
   },
   {
     "local": "Valentim Gentil",
     "population": "12433",
-    "urbanization_percentage": "914",
-    "ibge_code": "92"
+    "urbanization_percentage": 914
   },
   {
     "local": "Valinhos",
     "population": "121809",
-    "urbanization_percentage": "5432",
-    "ibge_code": "95"
+    "urbanization_percentage": 5432
   },
   {
     "local": "Valparaíso",
     "population": "23711",
-    "urbanization_percentage": "685",
-    "ibge_code": "97"
+    "urbanization_percentage": 685
   },
   {
     "local": "Vargem",
     "population": "9762",
-    "urbanization_percentage": "3860",
-    "ibge_code": "60"
+    "urbanization_percentage": 3860
   },
   {
     "local": "Vargem Grande do Sul",
     "population": "41075",
-    "urbanization_percentage": "1639",
-    "ibge_code": "96"
+    "urbanization_percentage": 1639
   },
   {
     "local": "Vargem Grande Paulista",
     "population": "50797",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Várzea Paulista",
     "population": "118022",
-    "urbanization_percentage": "-",
-    "ibge_code": "100"
+    "urbanization_percentage": 0
   },
   {
     "local": "Vera Cruz",
     "population": "10564",
-    "urbanization_percentage": "1121",
-    "ibge_code": "89"
+    "urbanization_percentage": 1121
   },
   {
     "local": "Vinhedo",
     "population": "74858",
-    "urbanization_percentage": "2352",
-    "ibge_code": "96"
+    "urbanization_percentage": 2352
   },
   {
     "local": "Viradouro",
     "population": "18148",
-    "urbanization_percentage": "531",
-    "ibge_code": "97"
+    "urbanization_percentage": 531
   },
   {
     "local": "Vista Alegre do Alto",
     "population": "7802",
-    "urbanization_percentage": "437",
-    "ibge_code": "94"
+    "urbanization_percentage": 437
   },
   {
     "local": "Vitória Brasil",
     "population": "1756",
-    "urbanization_percentage": "213",
-    "ibge_code": "87"
+    "urbanization_percentage": 213
   },
   {
     "local": "Votorantim",
     "population": "117640",
-    "urbanization_percentage": "4487",
-    "ibge_code": "96"
+    "urbanization_percentage": 4487
   },
   {
     "local": "Votuporanga",
     "population": "90432",
-    "urbanization_percentage": "2534",
-    "ibge_code": "97"
+    "urbanization_percentage": 2534
   },
   {
     "local": "Zacarias",
     "population": "2518",
-    "urbanization_percentage": "398",
-    "ibge_code": "84"
+    "urbanization_percentage": 398
   }
 ]

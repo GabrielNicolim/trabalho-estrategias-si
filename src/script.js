@@ -12,7 +12,7 @@ function consult()
 
 
     [...document.querySelectorAll(".city")].map(
-        (element, index, array) => {
+        (element) => {
             element.classList.add('city-off');
         }
     );
