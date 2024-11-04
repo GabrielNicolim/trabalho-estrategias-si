@@ -91,16 +91,10 @@ function consult() {
 
       sectors.sort((a, b) => b.participation - a.participation);
 
-      let sectorToCourseArea = {
-        agricultura: "agronomia",
-        industria: "industria",
-        servicos: "servicos",
-      };
-
       let suggestedCourses = [];
 
       sectors.forEach((sector) => {
-        let areaKey = sectorToCourseArea[sector.name];
+        let areaKey = sector.name;
         if (areaKey && cursos_por_area["cursos_por_area"][areaKey]) {
           suggestedCourses = suggestedCourses.concat(
             cursos_por_area["cursos_por_area"][areaKey]
