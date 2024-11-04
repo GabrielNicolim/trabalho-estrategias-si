@@ -1,52 +1,52 @@
 {
-    "cursos_por_area": {
-        "Agronomia": [
-            "Agronomia",
-            "Engenharia Agrícola",
-            "Engenharia Agronômica",
-            "Zootecnia",
-            "Engenharia Florestal"
-        ],
-        "Indústria": [
-            "Engenharia Bioquímica",
-            "Engenharia de Alimentos",
-            "Engenharia de Produção",
-            "Engenharia Química",
-            "Engenharia de Materiais",
-            "Engenharia de Manufatura",
-            "Engenharia Nuclear",
-            "Engenharia Metalúrgica",
-            "Engenharia Mecânica",
-            "Engenharia de Instrumentação, Automação e Robótica",
-            "Engenharia de Telecomunicações"
-        ],
-        "Serviços": [
-            "Administração",
-            "Administração Pública",
-            "Direito",
-            "Economia Empresarial e Controladoria",
-            "Relações Públicas",
-            "Marketing",
-            "Publicidade e Propaganda",
-            "Turismo",
-            "Lazer e Turismo",
-            "Gestão Ambiental",
-            "Ciências Contábeis",
-            "Biblioteconomia",
-            "Serviço Social"
-        ],
-        "Tecnologia": [
-            "Ciência da Computação",
-            "Sistemas de Informação",
-            "Engenharia de Computação",
-            "Engenharia da Computação",
-            "Informática Biomédica",
-            "Estatística e Ciência de Dados",
-            "Engenharia de Controle e Automação",
-            "Engenharia de Software",
-            "Matemática Computacional",
-            "Engenharia de Dados",
-            "Ciência de Dados"
-        ]
-    }
+  "cursos_por_area": {
+    "agronomia": [
+      "Agronomia",
+      "Engenharia Agrícola",
+      "Engenharia Agronômica",
+      "Zootecnia",
+      "Engenharia Florestal"
+    ],
+    "industria": [
+      "Engenharia Bioquímica",
+      "Engenharia de Alimentos",
+      "Engenharia de Produção",
+      "Engenharia Química",
+      "Engenharia de Materiais",
+      "Engenharia de Manufatura",
+      "Engenharia Nuclear",
+      "Engenharia Metalúrgica",
+      "Engenharia Mecânica",
+      "Engenharia de Instrumentação, Automação e Robótica",
+      "Engenharia de Telecomunicações"
+    ],
+    "servicos": [
+      "Administração",
+      "Administração Pública",
+      "Direito",
+      "Economia Empresarial e Controladoria",
+      "Relações Públicas",
+      "Marketing",
+      "Publicidade e Propaganda",
+      "Turismo",
+      "Lazer e Turismo",
+      "Gestão Ambiental",
+      "Ciências Contábeis",
+      "Biblioteconomia",
+      "Serviço Social"
+    ],
+    "tecnologia": [
+      "Ciência da Computação",
+      "Sistemas de Informação",
+      "Engenharia de Computação",
+      "Engenharia da Computação",
+      "Informática Biomédica",
+      "Estatística e Ciência de Dados",
+      "Engenharia de Controle e Automação",
+      "Engenharia de Software",
+      "Matemática Computacional",
+      "Engenharia de Dados",
+      "Ciência de Dados"
+    ]
+  }
 }
