@@ -4,7 +4,8 @@ function consult() {
   document.getElementById("city").innerHTML = "";
   document.getElementById("courses").innerHTML = "";
 
-  let mesoregion = document.getElementById("mesoregion").value.trim();
+  let mesoregion = document.getElementById("mesorregiao").value;
+  console.log(mesoregion);
 
   Promise.all([
     fetch("../data/dados_imp.json").then((response) => response.json()),
@@ -39,18 +40,15 @@ function consult() {
         let cityData2 = dados_imp_2.find((item) => item["local"] === cityName);
 
         function computeCityScore(cityData, cityData2) {
-          let population =
-            parseInt(cityData["population"].replace(/\D/g, "")) || 0;
+          let population = parseInt(cityData["population"]) || 0;
           let urbanization =
-            parseFloat(cityData["urbanization_percentage"].replace(",", ".")) ||
-            0;
-          let totalEmployment =
-            parseInt(cityData2["jobs"].replace(/\D/g, "")) || 0;
+            parseFloat(cityData["urbanization_percentage"]) || 0;
+          let totalEmployment = parseInt(cityData2["jobs"]) || 0;
 
           let score =
             population * 0.4 + urbanization * 0.3 + totalEmployment * 0.3;
 
-            return score;
+          return score;
         }
 
         let score = computeCityScore(cityData, cityData2);
@@ -72,20 +70,15 @@ function consult() {
       let sectors = [
         {
           name: "agricultura",
-          participation:
-            parseFloat(bestCity.cityData2["agro_jobs"].replace(",", ".")) || 0,
+          participation: parseFloat(bestCity.cityData2["agro_jobs"]) || 0,
         },
         {
           name: "industria",
-          participation:
-            parseFloat(bestCity.cityData2["industry_jobs"].replace(",", ".")) ||
-            0,
+          participation: parseFloat(bestCity.cityData2["industry_jobs"]) || 0,
         },
         {
           name: "servicos",
-          participation:
-            parseFloat(bestCity.cityData2["service_jobs"].replace(",", ".")) ||
-            0,
+          participation: parseFloat(bestCity.cityData2["service_jobs"]) || 0,
         },
       ];
 
@@ -113,10 +106,10 @@ function consult() {
         element.classList.add("city-off");
       });
 
-      let code = bestCity.cityData["Cód. IBGE"];
-          code = code.replace(/^0+/, "");
-    
-        document.getElementById("mun_" + code).classList.remove("city-off");
+      let code = bestCity.cityData2["ibge_code"];
+      console.log(code);
+
+      document.getElementById("mun_" + code).classList.remove("city-off");
     })
     .catch((error) => {
       console.error("Erro ao carregar os dados:", error);
