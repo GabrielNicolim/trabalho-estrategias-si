@@ -1,51 +1,72 @@
 {
-  "cursos_por_area": {
-    "agronomia": [
-      "Agronomia",
-      "Engenharia Agrícola",
-      "Engenharia Agronômica",
-      "Zootecnia",
-      "Engenharia Florestal"
-    ],
-    "industria": [
-      "Engenharia Bioquímica",
-      "Engenharia de Alimentos",
-      "Engenharia de Produção",
-      "Engenharia Química",
-      "Engenharia de Materiais",
-      "Engenharia de Manufatura",
-      "Engenharia Nuclear",
-      "Engenharia Metalúrgica",
-      "Engenharia Mecânica",
-      "Engenharia de Instrumentação, Automação e Robótica",
-      "Engenharia de Telecomunicações"
-    ],
-    "servicos": [
-      "Administração",
-      "Administração Pública",
-      "Direito",
-      "Economia Empresarial e Controladoria",
-      "Relações Públicas",
-      "Marketing",
-      "Publicidade e Propaganda",
-      "Turismo",
-      "Lazer e Turismo",
-      "Gestão Ambiental",
-      "Ciências Contábeis",
-      "Biblioteconomia",
-      "Serviço Social"
-    ],
-    "tecnologia": [
-      "Ciência da Computação",
-      "Sistemas de Informação",
-      "Engenharia da Computação",
-      "Informática Biomédica",
-      "Estatística e Ciência de Dados",
-      "Engenharia de Controle e Automação",
-      "Engenharia de Software",
-      "Matemática Computacional",
-      "Engenharia de Dados",
-      "Ciência de Dados"
-    ]
+    "cursos_por_area": {
+      "agronomia": [
+        "Agronomia",
+        "Engenharia Agrícola",
+        "Engenharia Agronômica",
+        "Zootecnia",
+        "Engenharia Florestal",
+        "Gestão Ambiental",
+        "Ciências Biológicas",
+        "Ciência e Tecnologia de Alimentos",
+        "Medicina Veterinária",
+        "Agroecologia",
+        "Geografia",
+        "Gestão do Agronegócio",
+        "Biotecnologia",
+        "Agronegócio",
+        "Horticultura",
+        "Silvicultura"
+      ],
+      "industria": [
+        "Engenharia Bioquímica",
+        "Engenharia de Alimentos",
+        "Engenharia de Produção",
+        "Engenharia Química",
+        "Engenharia de Materiais",
+        "Engenharia de Manufatura",
+        "Engenharia Metalúrgica",
+        "Engenharia Mecânica",
+        "Estatística e Ciência de Dados",
+        "Ciência da Computação",
+        "Sistemas de Informação",
+        "Engenharia da Computação",
+        "Informática Biomédica",
+        "Engenharia Elétrica",
+        "Engenharia Eletrônica",
+        "Engenharia de Controle e Automação",
+        "Tecnologia em Processos Químicos",
+        "Tecnologia em Automação Industrial",
+        "Tecnologia em Mecatrônica",
+        "Engenharia Têxtil",
+        "Engenharia de Minas"
+      ],
+      "servicos": [
+        "Administração",
+        "Administração Pública",
+        "Direito",
+        "Economia Empresarial e Controladoria",
+        "Relações Públicas",
+        "Marketing",
+        "Publicidade e Propaganda",
+        "Ciências Contábeis",
+        "Serviço Social",
+        "Ciência de Dados",
+        "Gestão de Recursos Humanos",
+        "Gestão Financeira",
+        "Psicologia",
+        "Turismo",
+        "Hotelaria",
+        "Logística",
+        "Gestão Comercial",
+        "Secretariado Executivo",
+        "Pedagogia",
+        "Arquivologia",
+        "Biblioteconomia",
+        "Gestão Hospitalar",
+        "Educação Física",
+        "Gastronomia"
+      ]
+    }
   }
-}
+  
