@@ -114,20 +114,11 @@ function consult() {
       // Ordena os setores pela participação
       sectors.sort((a, b) => b.participation - a.participation);
 
-      // Mapeia setores para áreas de cursos
-      let sectorToCourseArea = {
-        Agricultura: "agronomia",
-        Indústria: "industria",
-        Serviços: "servicos",
-        Tecnologia: "tecnologia",
-        // Adicione mapeamentos adicionais, se necessário
-      };
-
       let suggestedCourses = [];
 
       // Coleta cursos com base nos setores predominantes
       sectors.forEach((sector) => {
-        let areaKey = sectorToCourseArea[sector.name];
+        let areaKey = sector.name;
         if (areaKey && cursos_por_area["cursos_por_area"][areaKey]) {
           suggestedCourses = suggestedCourses.concat(
             cursos_por_area["cursos_por_area"][areaKey]
